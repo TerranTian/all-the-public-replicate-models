@@ -1,6 +1,6 @@
 # Model Stats
 ## New Models
-No new models today.
+- https://replicate.com/heygen/avatar-v
 
 ## Removed Models
 No models were removed today.
@@ -8,547 +8,558 @@ No models were removed today.
 ## Rising Stars
 | Model | Description | Runs Today | Runs Total | % of Total |
 |-------|-------------|------------|------------|------------|
-| [ibm-granite/granite-vision-4.1-4b](https://replicate.com/ibm-granite/granite-vision-4.1-4b) | Granite Vision 4.1 4B is a vision-language model (VLM) that delivers frontier-level performance on structured document extraction tasks — chart extraction, table extraction, and semantic key-value pair extraction — in a compact 4B parameter footprint | 392 | 395 | 99.24% |
-| [recraft-ai/recraft-v4.1-utility-pro](https://replicate.com/recraft-ai/recraft-v4.1-utility-pro) | A faster, lighter Recraft image generation model at ~2048px resolution, optimized for high-volume production. Design taste and prompt accuracy at high resolution with better throughput. | 52 | 85 | 61.18% |
-| [recraft-ai/recraft-v4.1-pro-svg](https://replicate.com/recraft-ai/recraft-v4.1-pro-svg) | Generate detailed SVG vector graphics from text prompts. Recraft V4.1 Pro's design taste with more geometric detail and finer paths — clean layers, editable output, and scalable to any size. | 25 | 54 | 46.30% |
-| [jwilko1007-alt/julieaiavatar](https://replicate.com/jwilko1007-alt/julieaiavatar) | null | 60 | 173 | 34.68% |
-| [prakhar-bhartiya/meta-tribev2-social-media-content-signal](https://replicate.com/prakhar-bhartiya/meta-tribev2-social-media-content-signal) | Predicts virality of short videos using a Meta TRIBE v2 brain-encoding model | 4 | 15 | 26.67% |
-| [tattzy25/fontivate-v0](https://replicate.com/tattzy25/fontivate-v0) | I WILL ADD DESCRIPTION SOON | 84 | 329 | 25.53% |
-| [elevenlabs/scribe-v2](https://replicate.com/elevenlabs/scribe-v2) | Transcribe speech with ElevenLabs Scribe v2. 90+ languages, word-level timestamps, speaker diarization for up to 32 speakers, audio event tagging, and keyterm biasing. Files up to 3 GB and 10 hours. | 288 | 1227 | 23.47% |
-| [light770/qwen3-reranker-0.6b](https://replicate.com/light770/qwen3-reranker-0.6b) | Compact Powerhouse for Vector Reranking | 3 | 13 | 23.08% |
-| [aisha-ai-official/flux.1schnell-uncensored-rasch3](https://replicate.com/aisha-ai-official/flux.1schnell-uncensored-rasch3) | null | 1383 | 6224 | 22.22% |
-| [recraft-ai/recraft-v4.1-pro](https://replicate.com/recraft-ai/recraft-v4.1-pro) | Recraft's latest image generation model at ~2048px resolution. Same design taste and prompt accuracy as V4.1, with higher resolution for print-ready and large-scale work. | 48 | 225 | 21.33% |
-| [recraft-ai/recraft-v4.1-svg](https://replicate.com/recraft-ai/recraft-v4.1-svg) | Generate production-ready SVG vector images from text prompts. Recraft V4.1's design taste applied to vector output — clean geometry, structured layers, and editable paths. | 44 | 213 | 20.66% |
-| [lucataco/gemma-4-31b-it](https://replicate.com/lucataco/gemma-4-31b-it) | Gemma 4 31B Instruct - Google open-weight VLM (image + text in, text out) | 5 | 25 | 20.00% |
-| [xai/grok-text-to-speech](https://replicate.com/xai/grok-text-to-speech) | Convert text to natural-sounding speech with xAI's Grok TTS. 5 voices, 20 languages, expressive speech tags, and high-fidelity MP3 / WAV / telephony audio output. | 2779 | 14103 | 19.71% |
-| [meghabyte/arrival-logograms](https://replicate.com/meghabyte/arrival-logograms) | Generates logograms in the style of the alien language from the 2016 sci-fi film "Arrival". | 905 | 5202 | 17.40% |
-| [cdlane24399/grant-marshall](https://replicate.com/cdlane24399/grant-marshall) | null | 7 | 42 | 16.67% |
-| [frvkygg/rmi_healthyml](https://replicate.com/frvkygg/rmi_healthyml) | Alzheimer CNN detector | 2 | 13 | 15.38% |
-| [xai/grok-imagine-image-quality](https://replicate.com/xai/grok-imagine-image-quality) | xAI's higher-quality image model with sharper details, better text rendering, and 2k output | 1848 | 12028 | 15.36% |
-| [philz1337x/clarity-pro-upscaler](https://replicate.com/philz1337x/clarity-pro-upscaler) | The first creative upscaler which keeps identity. Stunning photorealistic results, realistic skin, and full creative control. | 848 | 6416 | 13.22% |
-| [ibm-granite/granite-4.1-8b](https://replicate.com/ibm-granite/granite-4.1-8b) | Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 661 | 5083 | 13.00% |
-| [inworld/realtime-tts-1.5-mini](https://replicate.com/inworld/realtime-tts-1.5-mini) | Ultra-fast, cost-efficient realtime text-to-speech with ~120ms latency and 15-language support | 6419 | 49522 | 12.96% |
-| [lucataco/deepseek-ocr](https://replicate.com/lucataco/deepseek-ocr) | Convert documents to markdown, extract raw text, and locate specific content | 11678 | 92331 | 12.65% |
-| [uthana/create-character-v1](https://replicate.com/uthana/create-character-v1) | Rig any 3D bipedal character mesh | 8 | 71 | 11.27% |
-| [recraft-ai/recraft-v4.1](https://replicate.com/recraft-ai/recraft-v4.1) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 235 | 2253 | 10.43% |
-| [mayaresearch/veena-max](https://replicate.com/mayaresearch/veena-max) | VeenaMAX is a high-performance, advanced Text-to-Speech API that converts text into natural-sounding speech with emotional intelligence and blazing-fast response times. It can speak English and Hindi - the most widely used languages in India. As a signifi | 10 | 96 | 10.42% |
-| [bytedance/seedance-2.0](https://replicate.com/bytedance/seedance-2.0) | ByteDance's multimodal video generation model with native audio, multimodal reference inputs, and intelligent duration control. | 29137 | 283098 | 10.29% |
-| [aleksanderobuchowski/bielik-11b-v2.3-instruct](https://replicate.com/aleksanderobuchowski/bielik-11b-v2.3-instruct) | Bielik-11B-v2.3-Instruct is a generative text model made by SpeakLeash and Cyfronet featuring 11 billion parameters. It is a linear merge of the Bielik-11B-v2.0-Instruct, Bielik-11B-v2.1-Instruct, and Bielik-11B-v2.2-Instruct models. | 263 | 2752 | 9.56% |
-| [lucataco/vibevoice-asr](https://replicate.com/lucataco/vibevoice-asr) | Long-form speech recognition with speaker and timestamp segments using Microsoft's VibeVoice-ASR. | 2 | 21 | 9.52% |
-| [recraft-ai/recraft-v4.1-utility](https://replicate.com/recraft-ai/recraft-v4.1-utility) | A faster, lighter Recraft image generation model optimized for high-volume and production pipelines. Same design taste as V4.1, built for speed and throughput. | 6 | 71 | 8.45% |
-| [pixverse/pixverse-v6](https://replicate.com/pixverse/pixverse-v6) | PixVerse's flagship video generation model. Generate cinematic videos with synchronized audio, multi-shot sequences, and precise camera control. | 1735 | 21867 | 7.93% |
-| [wan-video/wan-2.7-t2v](https://replicate.com/wan-video/wan-2.7-t2v) | Generate videos with audio from text prompts using Alibaba's Wan 2.7 model. 1080p, up to 15 seconds, with audio synchronization. | 183 | 2333 | 7.84% |
-| [bytedance/seedance-2.0-fast](https://replicate.com/bytedance/seedance-2.0-fast) | A faster variant of Seedance 2.0 for quicker video generation with multimodal inputs and native audio. | 5444 | 78680 | 6.92% |
-| [frvkygg/medibot](https://replicate.com/frvkygg/medibot) | This chatbot is designed to answer medical-related questions and has been fine-tuned on a large dataset. It is built on the Qwen 2.5 3B Instruct base model. | 8 | 118 | 6.78% |
-| [prunaai/qwen-3.5-35b-a3b-fast](https://replicate.com/prunaai/qwen-3.5-35b-a3b-fast) | This is a version of the MoE Qwen 3.5 35B optimised by Pruna AI. | 3 | 46 | 6.52% |
-| [xai/grok-speech-to-text](https://replicate.com/xai/grok-speech-to-text) | Transcribe audio to text with xAI's Grok. Handles 25 languages, word-level timestamps, speaker diarization, multichannel audio, and files up to 500 MB. | 41 | 665 | 6.17% |
-| [fottoai/remove-bg-2](https://replicate.com/fottoai/remove-bg-2) | Remove image background with custom model to better result. | 67685 | 1113342 | 6.08% |
-| [cdlane24399/sam-hurley](https://replicate.com/cdlane24399/sam-hurley) | null | 1 | 17 | 5.88% |
-| [openai/gpt-image-2](https://replicate.com/openai/gpt-image-2) | OpenAI's state-of-the-art image generation model. Create and edit images from text with strong instruction following, sharp text rendering, and detailed editing. | 148556 | 2538146 | 5.85% |
-| [roskideluge/tarot-style](https://replicate.com/roskideluge/tarot-style) | SDXL fine-tuned on the Raider-Waite-Smith tarot deck | 10 | 171 | 5.85% |
-| [prunaai/p-video-avatar](https://replicate.com/prunaai/p-video-avatar) | p-video-avatar is the fastest and cheapest avatar/lipsync video model on the market. | 2025 | 34691 | 5.84% |
-| [venislathiya814092/ih096bg29](https://replicate.com/venislathiya814092/ih096bg29) | null | 8 | 141 | 5.67% |
-| [grey-hound432/fast-bg-removal](https://replicate.com/grey-hound432/fast-bg-removal) | Fast background removal for images. Designed for product photos, ecommerce, and bulk workflows. | 1 | 18 | 5.56% |
-| [richards630620/irathird](https://replicate.com/richards630620/irathird) | null | 9 | 167 | 5.39% |
-| [hcl14/direct3d_s2](https://replicate.com/hcl14/direct3d_s2) | Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention | 23 | 427 | 5.39% |
-| [richards630620/mariacc](https://replicate.com/richards630620/mariacc) | null | 3 | 56 | 5.36% |
-| [ddvinh1/inswapper](https://replicate.com/ddvinh1/inswapper) | null | 744 | 13894 | 5.35% |
-| [topazlabs/image-colorization](https://replicate.com/topazlabs/image-colorization) | Image colorization model from Topaz Labs | 75 | 1424 | 5.27% |
-| [decart/lucy-edit-2](https://replicate.com/decart/lucy-edit-2) | Edit and transform videos with text prompts and reference images. Style transfers, object replacement, character transformation, and more. | 5 | 96 | 5.21% |
-| [vufinder/map-anything-pano](https://replicate.com/vufinder/map-anything-pano) | Universal Feed-Forward Metric 3D Reconstruction from panoramic images | 3 | 62 | 4.84% |
-| [heygen/lipsync-speed](https://replicate.com/heygen/lipsync-speed) | Fast lip-sync: replace or dub audio on any video with quick audio-driven lip sync | 19 | 400 | 4.75% |
-| [grey-hound432/fast-image-resizer](https://replicate.com/grey-hound432/fast-image-resizer) | Resize images to specific dimensions with optional aspect ratio preservation. | 216 | 4578 | 4.72% |
+| [heygen/avatar-v](https://replicate.com/heygen/avatar-v) | Create realistic talking avatar videos from text with HeyGen's Avatar V engine — the newest, highest-quality avatar engine with cross-reference-driven animation. | 7 | 7 | 100.00% |
+| [ibm-granite/granite-vision-4.1-4b](https://replicate.com/ibm-granite/granite-vision-4.1-4b) | Granite Vision 4.1 4B is a vision-language model (VLM) that delivers frontier-level performance on structured document extraction tasks — chart extraction, table extraction, and semantic key-value pair extraction — in a compact 4B parameter footprint | 803 | 1198 | 67.03% |
+| [lucataco/gemma-4-31b-it](https://replicate.com/lucataco/gemma-4-31b-it) | Gemma 4 31B Instruct - Google open-weight VLM (image + text in, text out) | 38 | 63 | 60.32% |
+| [recraft-ai/recraft-v4.1-pro](https://replicate.com/recraft-ai/recraft-v4.1-pro) | Recraft's latest image generation model at ~2048px resolution. Same design taste and prompt accuracy as V4.1, with higher resolution for print-ready and large-scale work. | 219 | 444 | 49.32% |
+| [recraft-ai/recraft-v4.1-pro-svg](https://replicate.com/recraft-ai/recraft-v4.1-pro-svg) | Generate detailed SVG vector graphics from text prompts. Recraft V4.1 Pro's design taste with more geometric detail and finer paths — clean layers, editable output, and scalable to any size. | 52 | 106 | 49.06% |
+| [recraft-ai/recraft-v4.1-svg](https://replicate.com/recraft-ai/recraft-v4.1-svg) | Generate production-ready SVG vector images from text prompts. Recraft V4.1's design taste applied to vector output — clean geometry, structured layers, and editable paths. | 94 | 307 | 30.62% |
+| [mptamilselvan/download-media](https://replicate.com/mptamilselvan/download-media) | Download videos or extract audio from popular social media platforms quickly and easily. This tool supports links from platforms like Facebook, Instagram, and YouTube, allowing users to save content for offline viewing or personal use. | 14 | 49 | 28.57% |
+| [recraft-ai/recraft-v4.1-utility-pro](https://replicate.com/recraft-ai/recraft-v4.1-utility-pro) | A faster, lighter Recraft image generation model at ~2048px resolution, optimized for high-volume production. Design taste and prompt accuracy at high resolution with better throughput. | 32 | 117 | 27.35% |
+| [elevenlabs/scribe-v2](https://replicate.com/elevenlabs/scribe-v2) | Transcribe speech with ElevenLabs Scribe v2. 90+ languages, word-level timestamps, speaker diarization for up to 32 speakers, audio event tagging, and keyterm biasing. Files up to 3 GB and 10 hours. | 313 | 1540 | 20.32% |
+| [aisha-ai-official/flux.1schnell-uncensored-rasch3](https://replicate.com/aisha-ai-official/flux.1schnell-uncensored-rasch3) | null | 1331 | 7555 | 17.62% |
+| [recraft-ai/recraft-v4.1](https://replicate.com/recraft-ai/recraft-v4.1) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 309 | 2562 | 12.06% |
+| [xai/grok-imagine-image-quality](https://replicate.com/xai/grok-imagine-image-quality) | xAI's higher-quality image model with sharper details, better text rendering, and 2k output | 1640 | 13668 | 12.00% |
+| [moonshotai/kimi-k2.6](https://replicate.com/moonshotai/kimi-k2.6) | Moonshot AI's frontier open model, built for long-horizon coding, agent swarms, and autonomous software engineering. 1 trillion parameters, 262k context window, vision and tool use. | 305 | 2698 | 11.30% |
+| [ibm-granite/granite-4.1-8b](https://replicate.com/ibm-granite/granite-4.1-8b) | Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 600 | 5683 | 10.56% |
+| [appmeloncreator/platmoji-2.0](https://replicate.com/appmeloncreator/platmoji-2.0) | This is Platmoji 2, trained more to mimic emojis in an extremely similar way. (Realism in emojis go to Platmoji 1) | 67 | 655 | 10.23% |
+| [inworld/realtime-tts-2](https://replicate.com/inworld/realtime-tts-2) | Most expressive text-to-speech model from Inworld, with natural-language steering, real-time latency, and multilingual support across 100+ languages. | 194 | 1935 | 10.03% |
+| [xai/grok-speech-to-text](https://replicate.com/xai/grok-speech-to-text) | Transcribe audio to text with xAI's Grok. Handles 25 languages, word-level timestamps, speaker diarization, multichannel audio, and files up to 500 MB. | 67 | 732 | 9.15% |
+| [pixverse/pixverse-v6](https://replicate.com/pixverse/pixverse-v6) | PixVerse's flagship video generation model. Generate cinematic videos with synchronized audio, multi-shot sequences, and precise camera control. | 1959 | 23826 | 8.22% |
+| [grey-hound432/fast-image-resizer](https://replicate.com/grey-hound432/fast-image-resizer) | Resize images to specific dimensions with optional aspect ratio preservation. | 380 | 4958 | 7.66% |
+| [ddvinh1/inswapper](https://replicate.com/ddvinh1/inswapper) | null | 1064 | 14958 | 7.11% |
+| [inworld/realtime-tts-1.5-mini](https://replicate.com/inworld/realtime-tts-1.5-mini) | Ultra-fast, cost-efficient realtime text-to-speech with ~120ms latency and 15-language support | 3688 | 53210 | 6.93% |
+| [mptamilselvan/text-to-voice](https://replicate.com/mptamilselvan/text-to-voice) | High-quality Text-to-Speech (TTS) model designed to generate natural and expressive voice output from text input. This model supports clear pronunciation, smooth pacing, and realistic tone, making it ideal for applications such as voice assistants | 1 | 15 | 6.67% |
+| [bytedance/seedance-2.0-fast](https://replicate.com/bytedance/seedance-2.0-fast) | A faster variant of Seedance 2.0 for quicker video generation with multimodal inputs and native audio. | 5510 | 84190 | 6.54% |
+| [prakhar-bhartiya/meta-tribev2-social-media-content-signal](https://replicate.com/prakhar-bhartiya/meta-tribev2-social-media-content-signal) | Predicts virality of short videos using a Meta TRIBE v2 brain-encoding model | 1 | 16 | 6.25% |
+| [iamprofessorex/helldivers2-skull-logo](https://replicate.com/iamprofessorex/helldivers2-skull-logo) | null | 3 | 50 | 6.00% |
+| [openai/gpt-image-2](https://replicate.com/openai/gpt-image-2) | OpenAI's state-of-the-art image generation model. Create and edit images from text with strong instruction following, sharp text rendering, and detailed editing. | 157154 | 2695300 | 5.83% |
+| [andreasjansson/video-stitcher](https://replicate.com/andreasjansson/video-stitcher) | Fast GPU-powered concatenation of multiple videos, with short audio crossfades | 18 | 315 | 5.71% |
+| [bytedance/seedance-2.0](https://replicate.com/bytedance/seedance-2.0) | ByteDance's multimodal video generation model with native audio, multimodal reference inputs, and intelligent duration control. | 17113 | 300211 | 5.70% |
+| [xai/grok-imagine-r2v](https://replicate.com/xai/grok-imagine-r2v) | Generate videos guided by reference images using xAI's Grok Imagine Video model | 1420 | 25543 | 5.56% |
+| [fottoai/remove-bg-2](https://replicate.com/fottoai/remove-bg-2) | Remove image background with custom model to better result. | 64236 | 1177578 | 5.45% |
+| [venislathiya814092/ih096bg29](https://replicate.com/venislathiya814092/ih096bg29) | null | 8 | 149 | 5.37% |
+| [vufinder/map-anything](https://replicate.com/vufinder/map-anything) | Universal Feed-Forward Metric 3D Reconstruction | 290 | 5539 | 5.24% |
+| [philz1337x/clarity-pro-upscaler](https://replicate.com/philz1337x/clarity-pro-upscaler) | The first creative upscaler which keeps identity. Stunning photorealistic results, realistic skin, and full creative control. | 346 | 6762 | 5.12% |
+| [lightricks/ltx-2.3-pro](https://replicate.com/lightricks/ltx-2.3-pro) | High-fidelity video generation with portrait support, audio-to-video, retake, and extend. Text, image, and audio-driven creation up to 4K at 50 FPS. | 1013 | 20236 | 5.01% |
+| [triadmusic/beat-transformer](https://replicate.com/triadmusic/beat-transformer) | Model to identify Beats in a song and return the beats/second | 11 | 226 | 4.87% |
+| [alibaba/happyhorse-1.0](https://replicate.com/alibaba/happyhorse-1.0) | Alibaba's Happy Horse 1.0 generates videos from text prompts or animates a single image into video. Supports 720p and 1080p, 3-15 second durations, and five aspect ratios. | 389 | 8258 | 4.71% |
+| [openai/gpt-oss-20b](https://replicate.com/openai/gpt-oss-20b) | 20b open-weight language model from OpenAI | 23470 | 521003 | 4.50% |
+| [google/gemini-3.1-flash-tts](https://replicate.com/google/gemini-3.1-flash-tts) | Google's fast, expressive text-to-speech model with 30 voices and 70+ language support | 3107 | 73056 | 4.25% |
+| [meta-innovation/ultimate_rvc](https://replicate.com/meta-innovation/ultimate_rvc) | An extension of AiCoverGen, which provides several new features and improvements, enabling users to generate audio-related content using RVC with ease. Ideal for people who want to incorporate singing functionality into their AI assistant/chatbot/vtuber, | 5 | 119 | 4.20% |
+| [aisha-ai-official/cinero-illustrious-v4](https://replicate.com/aisha-ai-official/cinero-illustrious-v4) | null | 26 | 661 | 3.93% |
+| [ton731/floorplan-recognition](https://replicate.com/ton731/floorplan-recognition) | Segment floorplan images into walls, doors, windows, and kitchen zones using a deep learning model,    then extract structured contours and center lines as JSON for downstream applications. | 7 | 178 | 3.93% |
+| [prunaai/p-video-avatar](https://replicate.com/prunaai/p-video-avatar) | p-video-avatar is the fastest and cheapest avatar/lipsync video model on the market. | 1412 | 36103 | 3.91% |
+| [prunaai/p-image-upscale](https://replicate.com/prunaai/p-image-upscale) | Fastest image upscaler in the world (<1s) supporting outputs up to 8 MP. Upscales images to 4 MP in under one second. | 4377 | 113032 | 3.87% |
+| [jkukul/minimax-remover](https://replicate.com/jkukul/minimax-remover) | Remove any object from video - fast. | 2 | 53 | 3.77% |
+| [zsxkib/talknet-asd](https://replicate.com/zsxkib/talknet-asd) | 🗣️ TalkNet-ASD: Detect who is speaking in a video | 2064 | 55021 | 3.75% |
+| [wan-video/wan-2.7-image-pro](https://replicate.com/wan-video/wan-2.7-image-pro) | Generate and edit high-quality images with Alibaba's Wan 2.7 Pro with 4K output, thinking mode, text-to-image, multi-image editing, and image set generation | 2162 | 57926 | 3.73% |
+| [wan-video/wan-2.7-t2v](https://replicate.com/wan-video/wan-2.7-t2v) | Generate videos with audio from text prompts using Alibaba's Wan 2.7 model. 1080p, up to 15 seconds, with audio synchronization. | 90 | 2423 | 3.71% |
+| [anthropic/claude-opus-4.7](https://replicate.com/anthropic/claude-opus-4.7) | Anthropic's most capable model with a step-change improvement in agentic coding, better vision, and stronger multi-step reasoning | 1421 | 38838 | 3.66% |
+| [bitflow/video-concat-safe-pro](https://replicate.com/bitflow/video-concat-safe-pro) | When combining short AI videos encoded with different tools, codecs, and frame rates, this process standardizes them to ensure they are merged safely so that the final combined video remains intact. | 14 | 408 | 3.43% |
+| [wan-video/wan-2.7-i2v](https://replicate.com/wan-video/wan-2.7-i2v) | Generate videos from images, with support for first-and-last-frame control, clip continuation, and audio synchronization using Alibaba's Wan 2.7 model | 920 | 26868 | 3.42% |
 
 ## Active Models
 | Model | Description | Runs in the last day |
 |-------|-------------|---------------------|
-| [bytedance/seedream-4.5](https://replicate.com/bytedance/seedream-4.5) | Seedream 4.5: Upgraded Bytedance image model with stronger spatial understanding and world knowledge | 496354 |
-| [black-forest-labs/flux-schnell](https://replicate.com/black-forest-labs/flux-schnell) | The fastest image generation model tailored for local development and personal use | 461103 |
-| [falcons-ai/nsfw_image_detection](https://replicate.com/falcons-ai/nsfw_image_detection) | Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification | 361383 |
-| [google/nano-banana](https://replicate.com/google/nano-banana) | Google's latest image editing model in Gemini 2.5 | 167613 |
-| [prunaai/z-image-turbo](https://replicate.com/prunaai/z-image-turbo) | Z-Image Turbo is a super fast text-to-image model of 6B parameters developed by Tongyi-MAI. | 151138 |
-| [openai/gpt-image-2](https://replicate.com/openai/gpt-image-2) | OpenAI's state-of-the-art image generation model. Create and edit images from text with strong instruction following, sharp text rendering, and detailed editing. | 148556 |
-| [beautyyuyanli/multilingual-e5-large](https://replicate.com/beautyyuyanli/multilingual-e5-large) | multilingual-e5-large: A multi-language text embedding model | 141861 |
-| [krthr/clip-embeddings](https://replicate.com/krthr/clip-embeddings) | Generate CLIP (clip-vit-large-patch14) text & image embeddings | 126925 |
-| [andreasjansson/clip-features](https://replicate.com/andreasjansson/clip-features) | Return CLIP features for the clip-vit-large-patch14 model | 125769 |
-| [jaaari/kokoro-82m](https://replicate.com/jaaari/kokoro-82m) | Kokoro v1.0 - text-to-speech (82M params, based on StyleTTS2) | 125304 |
-| [vaibhavs10/incredibly-fast-whisper](https://replicate.com/vaibhavs10/incredibly-fast-whisper) | whisper-large-v3, incredibly fast, powered by Hugging Face Transformers! 🤗 | 124846 |
-| [black-forest-labs/flux-2-klein-4b](https://replicate.com/black-forest-labs/flux-2-klein-4b) | Very fast image generation and editing model. 4 steps distilled, sub-second inference for production and near real-time applications. | 116690 |
-| [prunaai/p-image-edit](https://replicate.com/prunaai/p-image-edit) | A sub 1 second 0.01$ multi-image editing model built for production use cases. For image generation, check out p-image here: https://replicate.com/prunaai/p-image | 110627 |
-| [google/nano-banana-2](https://replicate.com/google/nano-banana-2) | Google's fast image generation model with conversational editing, multi-image fusion, and character consistency | 110083 |
-| [meta/meta-llama-3-8b-instruct](https://replicate.com/meta/meta-llama-3-8b-instruct) | An 8 billion parameter language model from Meta, fine tuned for chat completions | 107300 |
-| [google/nano-banana-pro](https://replicate.com/google/nano-banana-pro) | Google's state of the art image generation and editing model 🍌🍌 | 97012 |
-| [aisha-ai-official/animagine-xl-v4-opt](https://replicate.com/aisha-ai-official/animagine-xl-v4-opt) | null | 88350 |
-| [google/gemini-2.5-flash](https://replicate.com/google/gemini-2.5-flash) | Google’s hybrid “thinking” AI model optimized for speed and cost-efficiency | 86706 |
-| [851-labs/background-remover](https://replicate.com/851-labs/background-remover) | Remove backgrounds from images. | 75942 |
-| [openai/gpt-5-nano](https://replicate.com/openai/gpt-5-nano) | Fastest, most cost-effective GPT-5 model from OpenAI | 74918 |
-| [google/gemini-3-flash](https://replicate.com/google/gemini-3-flash) | Google's most intelligent model built for speed with frontier intelligence, superior search, and grounding | 72997 |
-| [black-forest-labs/flux-2-max](https://replicate.com/black-forest-labs/flux-2-max) | The highest fidelity image model from Black Forest Labs | 72502 |
-| [nightmareai/real-esrgan](https://replicate.com/nightmareai/real-esrgan) | Real-ESRGAN with optional face correction and adjustable upscale | 70482 |
-| [openai/gpt-image-1.5](https://replicate.com/openai/gpt-image-1.5) | OpenAI's latest image generation model with better instruction following and adherence to prompts | 69483 |
-| [fottoai/remove-bg-2](https://replicate.com/fottoai/remove-bg-2) | Remove image background with custom model to better result. | 67685 |
-| [black-forest-labs/flux-dev](https://replicate.com/black-forest-labs/flux-dev) | A 12 billion parameter rectified flow transformer capable of generating images from text descriptions | 63749 |
-| [nicolascoutureau/video-utils](https://replicate.com/nicolascoutureau/video-utils) | null | 57480 |
-| [xinntao/gfpgan](https://replicate.com/xinntao/gfpgan) | Practical face restoration algorithm for *old photos* or *AI-generated faces* | 57165 |
-| [black-forest-labs/flux-2-pro](https://replicate.com/black-forest-labs/flux-2-pro) | High-quality image generation and editing with support for eight reference images | 51864 |
-| [openai/clip](https://replicate.com/openai/clip) | Official CLIP models, generate CLIP (clip-vit-large-patch14) text & image embeddings | 50725 |
-| [adirik/grounding-dino](https://replicate.com/adirik/grounding-dino) | Detect everything with language! | 50414 |
-| [bytedance/seedream-4](https://replicate.com/bytedance/seedream-4) | Unified text-to-image generation and precise single-sentence editing at up to 4K resolution | 49608 |
-| [black-forest-labs/flux-kontext-pro](https://replicate.com/black-forest-labs/flux-kontext-pro) | A state-of-the-art text-based image editing model that delivers high-quality outputs with excellent prompt following and consistent results for transforming images through natural language | 47438 |
-| [m1guelpf/nsfw-filter](https://replicate.com/m1guelpf/nsfw-filter) | Run any image through the Stable Diffusion content filter | 45298 |
-| [lucataco/xtts-v2](https://replicate.com/lucataco/xtts-v2) | Coqui XTTS-v2: Multilingual Text To Speech Voice Cloning | 44747 |
-| [tencentarc/gfpgan](https://replicate.com/tencentarc/gfpgan) | Practical face restoration algorithm for *old photos* or *AI-generated faces* | 43446 |
-| [lucataco/moondream2](https://replicate.com/lucataco/moondream2) | moondream2 is a small vision language model designed to run efficiently on edge devices | 42697 |
-| [prunaai/p-image](https://replicate.com/prunaai/p-image) | A sub 1 second text-to-image model built for production use cases. | 40237 |
-| [bytedance/sdxl-lightning-4step](https://replicate.com/bytedance/sdxl-lightning-4step) | SDXL-Lightning by ByteDance: a fast text-to-image model that makes high-quality images in 4 steps | 39016 |
-| [black-forest-labs/flux-kontext-max](https://replicate.com/black-forest-labs/flux-kontext-max) | A premium text-based image editing model that delivers maximum performance and improved typography generation for transforming images through natural language prompts | 33581 |
-| [meta/meta-llama-3-70b-instruct](https://replicate.com/meta/meta-llama-3-70b-instruct) | A 70 billion parameter language model from Meta, fine tuned for chat completions | 32151 |
-| [wan-video/wan-2.2-i2v-fast](https://replicate.com/wan-video/wan-2.2-i2v-fast) | A very fast and cheap PrunaAI optimized version of Wan 2.2 A14B image-to-video | 31091 |
-| [prunaai/flux-kontext-fast](https://replicate.com/prunaai/flux-kontext-fast) | Ultra fast flux kontext endpoint | 29283 |
-| [bytedance/seedance-2.0](https://replicate.com/bytedance/seedance-2.0) | ByteDance's multimodal video generation model with native audio, multimodal reference inputs, and intelligent duration control. | 29137 |
-| [zedge/stable-diffusion](https://replicate.com/zedge/stable-diffusion) | Private instance of stable-diffusion | 28251 |
-| [allenhooo/lama](https://replicate.com/allenhooo/lama) | 🦙 LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions | 27319 |
-| [prunaai/flux-fast](https://replicate.com/prunaai/flux-fast) | This is the fastest Flux endpoint in the world. | 27209 |
-| [black-forest-labs/flux-1.1-pro](https://replicate.com/black-forest-labs/flux-1.1-pro) | Faster, better FLUX Pro. Text-to-image model with excellent image quality, prompt adherence, and output diversity. | 26604 |
-| [xai/grok-imagine-image](https://replicate.com/xai/grok-imagine-image) | SOTA image model from xAI | 24881 |
-| [topazlabs/image-upscale](https://replicate.com/topazlabs/image-upscale) | Professional-grade image upscaling, from Topaz Labs | 24587 |
-| [sczhou/codeformer](https://replicate.com/sczhou/codeformer) | Robust face restoration algorithm for old photos / AI-generated faces | 24198 |
-| [bytedance/seedance-1.5-pro](https://replicate.com/bytedance/seedance-1.5-pro) | A joint audio-video model that accurately follows complex instructions. | 21755 |
-| [lucataco/remove-bg](https://replicate.com/lucataco/remove-bg) | Remove background from an image | 21716 |
-| [openai/gpt-4o-mini](https://replicate.com/openai/gpt-4o-mini) | Low latency, low cost version of OpenAI's GPT-4o model | 21531 |
-| [thomasmol/whisper-diarization](https://replicate.com/thomasmol/whisper-diarization) | ⚡️ Blazing fast audio transcription with speaker diarization | Whisper Large V3 Turbo | word & sentence level timestamps | prompt | 20837 |
-| [lucataco/florence-2-large](https://replicate.com/lucataco/florence-2-large) | Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks | 20582 |
-| [bytedance/seedream-5-lite](https://replicate.com/bytedance/seedream-5-lite) | Seedream 5.0 lite: image generation with built-in reasoning, example-based editing, and deep domain knowledge | 20225 |
-| [schananas/grounded_sam](https://replicate.com/schananas/grounded_sam) | Mask prompting based on Grounding DINO & Segment Anything | Integral cog of doiwear.it | 19664 |
-| [philz1337x/clarity-upscaler](https://replicate.com/philz1337x/clarity-upscaler) | High resolution image Upscaler and Enhancer. Use at ClarityAI.co. A free Magnific alternative. Twitter/X: @philz1337x | 19552 |
-| [bytedance/hyper-flux-8step](https://replicate.com/bytedance/hyper-flux-8step) | Hyper FLUX 8-step by ByteDance | 18513 |
-| [qwen/qwen3-tts](https://replicate.com/qwen/qwen3-tts) | A unified Text-to-Speech demo featuring three powerful modes: Voice, Clone and Design | 17106 |
-| [openai/gpt-4.1-nano](https://replicate.com/openai/gpt-4.1-nano) | Fastest, most cost-effective GPT-4.1 model from OpenAI | 16964 |
-| [bria/remove-background](https://replicate.com/bria/remove-background) | Bria AI's remove background model | 16860 |
-| [openai/gpt-5.2](https://replicate.com/openai/gpt-5.2) | The best model for coding and agentic tasks across industries | 16638 |
-| [recraft-ai/recraft-crisp-upscale](https://replicate.com/recraft-ai/recraft-crisp-upscale) | Designed to make images sharper and cleaner, Crisp Upscale increases overall quality, making visuals suitable for web use or print-ready materials. | 15291 |
-| [prunaai/p-video](https://replicate.com/prunaai/p-video) | Fast video generation with built-in draft mode for rapid creative iteration. Text-to-video, image-to-video, and audio-to-video in a single endpoint. | 15065 |
-| [black-forest-labs/flux-2-dev](https://replicate.com/black-forest-labs/flux-2-dev) | Quality image generation and editing with support for reference images | 14772 |
-| [alexgenovese/upscaler](https://replicate.com/alexgenovese/upscaler) | GFPGAN aims at developing Practical Algorithms for Real-world Face and Object Restoration | 14413 |
-| [victor-upmeet/whisperx-a40-large](https://replicate.com/victor-upmeet/whisperx-a40-large) | Accelerated transcription, word-level timestamps and diarization with whisperX large-v3 for large audio files | 14380 |
-| [humbleworth/price-predict-v1](https://replicate.com/humbleworth/price-predict-v1) | Predicts the value of a domain name. | 13808 |
-| [black-forest-labs/flux-2-klein-9b](https://replicate.com/black-forest-labs/flux-2-klein-9b) | 4 step distilled version of FLUX.2 [klein]. A foundation model for maximum flexibility and control | 13492 |
-| [qwen/qwen-image-edit-plus](https://replicate.com/qwen/qwen-image-edit-plus) | The latest Qwen-Image’s iteration with improved multi-image editing, single-image consistency, and native support for ControlNet | 13340 |
-| [minimax/speech-02-turbo](https://replicate.com/minimax/speech-02-turbo) | Text-to-Audio (T2A) that offers voice synthesis, emotional expression, and multilingual capabilities. Designed for real-time applications with low latency | 12217 |
-| [anthropic/claude-4.5-haiku](https://replicate.com/anthropic/claude-4.5-haiku) | Claude Haiku 4.5 gives you similar levels of coding performance but at one-third the cost and more than twice the speed | 11682 |
-| [lucataco/deepseek-ocr](https://replicate.com/lucataco/deepseek-ocr) | Convert documents to markdown, extract raw text, and locate specific content | 11678 |
-| [xai/grok-imagine-video](https://replicate.com/xai/grok-imagine-video) | Generate videos using xAI's Grok Imagine Video model | 10690 |
-| [victor-upmeet/whisperx](https://replicate.com/victor-upmeet/whisperx) | Accelerated transcription, word-level timestamps and diarization with whisperX large-v3 | 10505 |
-| [men1scus/birefnet](https://replicate.com/men1scus/birefnet) | Bilateral Reference for High-Resolution Dichotomous Image Segmentation (CAAI AIR 2024) | 10430 |
-| [yorickvp/llava-13b](https://replicate.com/yorickvp/llava-13b) | Visual instruction tuning towards large language and vision models with GPT-4 level capabilities | 10102 |
-| [franz-biz/yolo-world-xl](https://replicate.com/franz-biz/yolo-world-xl) | Real-Time Open-Vocabulary Object Detection using the xl weights | 9974 |
-| [ideogram-ai/ideogram-v3-turbo](https://replicate.com/ideogram-ai/ideogram-v3-turbo) | Turbo is the fastest and cheapest Ideogram v3. v3 creates images with stunning realism, creative designs, and consistent styles | 9938 |
-| [tmappdev/lang-segment-anything](https://replicate.com/tmappdev/lang-segment-anything) | Segment Anything with prompts | 9843 |
-| [pengdaqian2020/image-tagger](https://replicate.com/pengdaqian2020/image-tagger) | image tagger | 9685 |
-| [openai/gpt-4.1-mini](https://replicate.com/openai/gpt-4.1-mini) | Fast, affordable version of GPT-4.1 | 9508 |
-| [google/imagen-4-fast](https://replicate.com/google/imagen-4-fast) | Use this fast version of Imagen 4 when speed and cost are more important than quality | 9503 |
-| [salesforce/blip](https://replicate.com/salesforce/blip) | Generate image captions | 9432 |
-| [recraft-ai/recraft-v4](https://replicate.com/recraft-ai/recraft-v4) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 9375 |
-| [black-forest-labs/flux-kontext-dev](https://replicate.com/black-forest-labs/flux-kontext-dev) | Open-weight version of FLUX.1 Kontext | 8964 |
-| [stability-ai/sdxl](https://replicate.com/stability-ai/sdxl) | A text-to-image generative AI model that creates beautiful images | 8938 |
-| [lucataco/codeformer](https://replicate.com/lucataco/codeformer) | Robust face restoration algorithm for old photos/AI-generated faces | 8850 |
-| [anthropic/claude-4.5-sonnet](https://replicate.com/anthropic/claude-4.5-sonnet) | Claude Sonnet 4.5 is the best coding model to date, with significant improvements across the entire development lifecycle | 8742 |
-| [zedge/real-esrgan](https://replicate.com/zedge/real-esrgan) | Private instance of real-esrgan | 7733 |
-| [google/gemini-3.1-pro](https://replicate.com/google/gemini-3.1-pro) | Google's most intelligent model, with improved reasoning and a new medium thinking level | 7694 |
-| [prunaai/flux.1-dev-lora](https://replicate.com/prunaai/flux.1-dev-lora) | This is a 3x faster FLUX.1 [dev] model from Black Forest Labs, optimised with pruna with minimal quality loss. | 7677 |
-| [black-forest-labs/flux-1.1-pro-ultra](https://replicate.com/black-forest-labs/flux-1.1-pro-ultra) | FLUX1.1 [pro] in ultra and raw modes. Images are up to 4 megapixels. Use raw mode for realism. | 7650 |
-| [ibm-granite/granite-vision-3.3-2b](https://replicate.com/ibm-granite/granite-vision-3.3-2b) | Granite-vision-3.3-2b is a compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more. | 7063 |
-| [zsxkib/flux-dev-inpainting](https://replicate.com/zsxkib/flux-dev-inpainting) | 🎨 Fill in masked parts of images with FLUX.1-dev 🖌️ | 6986 |
-| [cjwbw/clip-vit-large-patch14](https://replicate.com/cjwbw/clip-vit-large-patch14) | openai/clip-vit-large-patch14 with Transformers | 6862 |
-| [google/upscaler](https://replicate.com/google/upscaler) | Upscale images 2x or 4x times | 6634 |
-| [openai/gpt-5-mini](https://replicate.com/openai/gpt-5-mini) | Faster version of OpenAI's flagship GPT-5 model | 6504 |
-| [zylim0702/remove-object](https://replicate.com/zylim0702/remove-object) | The LaMa (Large Mask Inpainting) model is an advanced image inpainting system designed to address the challenges of handling large missing areas, complex geometric structures, and high-resolution images. | 6473 |
-| [prunaai/flux-2-turbo](https://replicate.com/prunaai/flux-2-turbo) | Image generation and editing with a distilled FLUX.2 [dev] by FAL. | 6437 |
-| [inworld/realtime-tts-1.5-mini](https://replicate.com/inworld/realtime-tts-1.5-mini) | Ultra-fast, cost-efficient realtime text-to-speech with ~120ms latency and 15-language support | 6419 |
-| [deepseek-ai/deepseek-v3](https://replicate.com/deepseek-ai/deepseek-v3) | DeepSeek-V3-0324 is the leading non-reasoning model, a milestone for open source | 6203 |
-| [cdingram/face-swap](https://replicate.com/cdingram/face-swap) | Image to image face swapping | 5833 |
-| [daanelson/real-esrgan-a100](https://replicate.com/daanelson/real-esrgan-a100) | Real-ESRGAN for image upscaling on an A100 | 5810 |
-| [zedge/zoedepth](https://replicate.com/zedge/zoedepth) | null | 5600 |
-| [comfyui/any-comfyui-workflow](https://replicate.com/comfyui/any-comfyui-workflow) | Run any ComfyUI workflow. Guide: https://github.com/replicate/cog-comfyui | 5592 |
-| [cjwbw/rembg](https://replicate.com/cjwbw/rembg) | Remove images background | 5589 |
-| [anthropic/claude-3.7-sonnet](https://replicate.com/anthropic/claude-3.7-sonnet) | The most intelligent Claude model and the first hybrid reasoning model on the market (claude-3-7-sonnet-20250219) | 5513 |
-| [bytedance/seedance-2.0-fast](https://replicate.com/bytedance/seedance-2.0-fast) | A faster variant of Seedance 2.0 for quicker video generation with multimodal inputs and native audio. | 5444 |
+| [bytedance/seedream-4.5](https://replicate.com/bytedance/seedream-4.5) | Seedream 4.5: Upgraded Bytedance image model with stronger spatial understanding and world knowledge | 480111 |
+| [black-forest-labs/flux-schnell](https://replicate.com/black-forest-labs/flux-schnell) | The fastest image generation model tailored for local development and personal use | 451635 |
+| [falcons-ai/nsfw_image_detection](https://replicate.com/falcons-ai/nsfw_image_detection) | Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification | 380608 |
+| [openai/gpt-image-2](https://replicate.com/openai/gpt-image-2) | OpenAI's state-of-the-art image generation model. Create and edit images from text with strong instruction following, sharp text rendering, and detailed editing. | 157154 |
+| [google/nano-banana](https://replicate.com/google/nano-banana) | Google's latest image editing model in Gemini 2.5 | 154764 |
+| [beautyyuyanli/multilingual-e5-large](https://replicate.com/beautyyuyanli/multilingual-e5-large) | multilingual-e5-large: A multi-language text embedding model | 147243 |
+| [prunaai/z-image-turbo](https://replicate.com/prunaai/z-image-turbo) | Z-Image Turbo is a super fast text-to-image model of 6B parameters developed by Tongyi-MAI. | 144642 |
+| [andreasjansson/clip-features](https://replicate.com/andreasjansson/clip-features) | Return CLIP features for the clip-vit-large-patch14 model | 125969 |
+| [vaibhavs10/incredibly-fast-whisper](https://replicate.com/vaibhavs10/incredibly-fast-whisper) | whisper-large-v3, incredibly fast, powered by Hugging Face Transformers! 🤗 | 121977 |
+| [google/nano-banana-2](https://replicate.com/google/nano-banana-2) | Google's fast image generation model with conversational editing, multi-image fusion, and character consistency | 118079 |
+| [jaaari/kokoro-82m](https://replicate.com/jaaari/kokoro-82m) | Kokoro v1.0 - text-to-speech (82M params, based on StyleTTS2) | 113485 |
+| [black-forest-labs/flux-2-klein-4b](https://replicate.com/black-forest-labs/flux-2-klein-4b) | Very fast image generation and editing model. 4 steps distilled, sub-second inference for production and near real-time applications. | 112592 |
+| [krthr/clip-embeddings](https://replicate.com/krthr/clip-embeddings) | Generate CLIP (clip-vit-large-patch14) text & image embeddings | 109821 |
+| [google/nano-banana-pro](https://replicate.com/google/nano-banana-pro) | Google's state of the art image generation and editing model 🍌🍌 | 108814 |
+| [prunaai/p-image-edit](https://replicate.com/prunaai/p-image-edit) | A sub 1 second 0.01$ multi-image editing model built for production use cases. For image generation, check out p-image here: https://replicate.com/prunaai/p-image | 104752 |
+| [google/gemini-3-flash](https://replicate.com/google/gemini-3-flash) | Google's most intelligent model built for speed with frontier intelligence, superior search, and grounding | 99469 |
+| [meta/meta-llama-3-8b-instruct](https://replicate.com/meta/meta-llama-3-8b-instruct) | An 8 billion parameter language model from Meta, fine tuned for chat completions | 84489 |
+| [851-labs/background-remover](https://replicate.com/851-labs/background-remover) | Remove backgrounds from images. | 80033 |
+| [black-forest-labs/flux-dev](https://replicate.com/black-forest-labs/flux-dev) | A 12 billion parameter rectified flow transformer capable of generating images from text descriptions | 71525 |
+| [nightmareai/real-esrgan](https://replicate.com/nightmareai/real-esrgan) | Real-ESRGAN with optional face correction and adjustable upscale | 69995 |
+| [google/gemini-2.5-flash](https://replicate.com/google/gemini-2.5-flash) | Google’s hybrid “thinking” AI model optimized for speed and cost-efficiency | 69835 |
+| [aisha-ai-official/animagine-xl-v4-opt](https://replicate.com/aisha-ai-official/animagine-xl-v4-opt) | null | 69246 |
+| [openai/gpt-image-1.5](https://replicate.com/openai/gpt-image-1.5) | OpenAI's latest image generation model with better instruction following and adherence to prompts | 66945 |
+| [adirik/grounding-dino](https://replicate.com/adirik/grounding-dino) | Detect everything with language! | 64512 |
+| [fottoai/remove-bg-2](https://replicate.com/fottoai/remove-bg-2) | Remove image background with custom model to better result. | 64236 |
+| [lucataco/moondream2](https://replicate.com/lucataco/moondream2) | moondream2 is a small vision language model designed to run efficiently on edge devices | 58849 |
+| [xinntao/gfpgan](https://replicate.com/xinntao/gfpgan) | Practical face restoration algorithm for *old photos* or *AI-generated faces* | 57005 |
+| [nicolascoutureau/video-utils](https://replicate.com/nicolascoutureau/video-utils) | null | 56844 |
+| [bytedance/seedream-4](https://replicate.com/bytedance/seedream-4) | Unified text-to-image generation and precise single-sentence editing at up to 4K resolution | 49623 |
+| [black-forest-labs/flux-2-pro](https://replicate.com/black-forest-labs/flux-2-pro) | High-quality image generation and editing with support for eight reference images | 48034 |
+| [black-forest-labs/flux-kontext-pro](https://replicate.com/black-forest-labs/flux-kontext-pro) | A state-of-the-art text-based image editing model that delivers high-quality outputs with excellent prompt following and consistent results for transforming images through natural language | 46582 |
+| [m1guelpf/nsfw-filter](https://replicate.com/m1guelpf/nsfw-filter) | Run any image through the Stable Diffusion content filter | 45916 |
+| [prunaai/p-image](https://replicate.com/prunaai/p-image) | A sub 1 second text-to-image model built for production use cases. | 42373 |
+| [tencentarc/gfpgan](https://replicate.com/tencentarc/gfpgan) | Practical face restoration algorithm for *old photos* or *AI-generated faces* | 39689 |
+| [black-forest-labs/flux-kontext-max](https://replicate.com/black-forest-labs/flux-kontext-max) | A premium text-based image editing model that delivers maximum performance and improved typography generation for transforming images through natural language prompts | 39362 |
+| [black-forest-labs/flux-2-max](https://replicate.com/black-forest-labs/flux-2-max) | The highest fidelity image model from Black Forest Labs | 36613 |
+| [wan-video/wan-2.2-i2v-fast](https://replicate.com/wan-video/wan-2.2-i2v-fast) | A very fast and cheap PrunaAI optimized version of Wan 2.2 A14B image-to-video | 32484 |
+| [bytedance/sdxl-lightning-4step](https://replicate.com/bytedance/sdxl-lightning-4step) | SDXL-Lightning by ByteDance: a fast text-to-image model that makes high-quality images in 4 steps | 32118 |
+| [lucataco/xtts-v2](https://replicate.com/lucataco/xtts-v2) | Coqui XTTS-v2: Multilingual Text To Speech Voice Cloning | 30251 |
+| [openai/gpt-5-nano](https://replicate.com/openai/gpt-5-nano) | Fastest, most cost-effective GPT-5 model from OpenAI | 29603 |
+| [meta/meta-llama-3-70b-instruct](https://replicate.com/meta/meta-llama-3-70b-instruct) | A 70 billion parameter language model from Meta, fine tuned for chat completions | 29210 |
+| [zedge/stable-diffusion](https://replicate.com/zedge/stable-diffusion) | Private instance of stable-diffusion | 28935 |
+| [prunaai/flux-kontext-fast](https://replicate.com/prunaai/flux-kontext-fast) | Ultra fast flux kontext endpoint | 28591 |
+| [black-forest-labs/flux-1.1-pro](https://replicate.com/black-forest-labs/flux-1.1-pro) | Faster, better FLUX Pro. Text-to-image model with excellent image quality, prompt adherence, and output diversity. | 27037 |
+| [allenhooo/lama](https://replicate.com/allenhooo/lama) | 🦙 LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions | 26718 |
+| [topazlabs/image-upscale](https://replicate.com/topazlabs/image-upscale) | Professional-grade image upscaling, from Topaz Labs | 25173 |
+| [prunaai/flux-fast](https://replicate.com/prunaai/flux-fast) | This is the fastest Flux endpoint in the world. | 25066 |
+| [sczhou/codeformer](https://replicate.com/sczhou/codeformer) | Robust face restoration algorithm for old photos / AI-generated faces | 24096 |
+| [lucataco/remove-bg](https://replicate.com/lucataco/remove-bg) | Remove background from an image | 23581 |
+| [openai/gpt-oss-20b](https://replicate.com/openai/gpt-oss-20b) | 20b open-weight language model from OpenAI | 23470 |
+| [bytedance/seedance-1.5-pro](https://replicate.com/bytedance/seedance-1.5-pro) | A joint audio-video model that accurately follows complex instructions. | 22518 |
+| [schananas/grounded_sam](https://replicate.com/schananas/grounded_sam) | Mask prompting based on Grounding DINO & Segment Anything | Integral cog of doiwear.it | 21219 |
+| [openai/gpt-4o-mini](https://replicate.com/openai/gpt-4o-mini) | Low latency, low cost version of OpenAI's GPT-4o model | 21177 |
+| [xai/grok-imagine-image](https://replicate.com/xai/grok-imagine-image) | SOTA image model from xAI | 20589 |
+| [bytedance/hyper-flux-8step](https://replicate.com/bytedance/hyper-flux-8step) | Hyper FLUX 8-step by ByteDance | 20128 |
+| [bytedance/seedream-5-lite](https://replicate.com/bytedance/seedream-5-lite) | Seedream 5.0 lite: image generation with built-in reasoning, example-based editing, and deep domain knowledge | 19385 |
+| [anthropic/claude-4.5-sonnet](https://replicate.com/anthropic/claude-4.5-sonnet) | Claude Sonnet 4.5 is the best coding model to date, with significant improvements across the entire development lifecycle | 19204 |
+| [thomasmol/whisper-diarization](https://replicate.com/thomasmol/whisper-diarization) | ⚡️ Blazing fast audio transcription with speaker diarization | Whisper Large V3 Turbo | word & sentence level timestamps | prompt | 19163 |
+| [yorickvp/llava-13b](https://replicate.com/yorickvp/llava-13b) | Visual instruction tuning towards large language and vision models with GPT-4 level capabilities | 19105 |
+| [philz1337x/clarity-upscaler](https://replicate.com/philz1337x/clarity-upscaler) | High resolution image Upscaler and Enhancer. Use at ClarityAI.co. A free Magnific alternative. Twitter/X: @philz1337x | 17610 |
+| [bria/remove-background](https://replicate.com/bria/remove-background) | Bria AI's remove background model | 17430 |
+| [lucataco/florence-2-large](https://replicate.com/lucataco/florence-2-large) | Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks | 17295 |
+| [prunaai/p-video](https://replicate.com/prunaai/p-video) | Fast video generation with built-in draft mode for rapid creative iteration. Text-to-video, image-to-video, and audio-to-video in a single endpoint. | 17275 |
+| [recraft-ai/recraft-crisp-upscale](https://replicate.com/recraft-ai/recraft-crisp-upscale) | Designed to make images sharper and cleaner, Crisp Upscale increases overall quality, making visuals suitable for web use or print-ready materials. | 17117 |
+| [bytedance/seedance-2.0](https://replicate.com/bytedance/seedance-2.0) | ByteDance's multimodal video generation model with native audio, multimodal reference inputs, and intelligent duration control. | 17113 |
+| [openai/gpt-4.1-nano](https://replicate.com/openai/gpt-4.1-nano) | Fastest, most cost-effective GPT-4.1 model from OpenAI | 16584 |
+| [alexgenovese/upscaler](https://replicate.com/alexgenovese/upscaler) | GFPGAN aims at developing Practical Algorithms for Real-world Face and Object Restoration | 16434 |
+| [victor-upmeet/whisperx-a40-large](https://replicate.com/victor-upmeet/whisperx-a40-large) | Accelerated transcription, word-level timestamps and diarization with whisperX large-v3 for large audio files | 16341 |
+| [minimax/speech-02-turbo](https://replicate.com/minimax/speech-02-turbo) | Text-to-Audio (T2A) that offers voice synthesis, emotional expression, and multilingual capabilities. Designed for real-time applications with low latency | 16126 |
+| [deepseek-ai/deepseek-v3](https://replicate.com/deepseek-ai/deepseek-v3) | DeepSeek-V3-0324 is the leading non-reasoning model, a milestone for open source | 15092 |
+| [qwen/qwen3-tts](https://replicate.com/qwen/qwen3-tts) | A unified Text-to-Speech demo featuring three powerful modes: Voice, Clone and Design | 14992 |
+| [xai/grok-imagine-video](https://replicate.com/xai/grok-imagine-video) | Generate videos using xAI's Grok Imagine Video model | 13878 |
+| [victor-upmeet/whisperx](https://replicate.com/victor-upmeet/whisperx) | Accelerated transcription, word-level timestamps and diarization with whisperX large-v3 | 13811 |
+| [humbleworth/price-predict-v1](https://replicate.com/humbleworth/price-predict-v1) | Predicts the value of a domain name. | 13775 |
+| [black-forest-labs/flux-2-klein-9b](https://replicate.com/black-forest-labs/flux-2-klein-9b) | 4 step distilled version of FLUX.2 [klein]. A foundation model for maximum flexibility and control | 13707 |
+| [qwen/qwen-image-edit-plus](https://replicate.com/qwen/qwen-image-edit-plus) | The latest Qwen-Image’s iteration with improved multi-image editing, single-image consistency, and native support for ControlNet | 13647 |
+| [black-forest-labs/flux-2-dev](https://replicate.com/black-forest-labs/flux-2-dev) | Quality image generation and editing with support for reference images | 12525 |
+| [anthropic/claude-4.5-haiku](https://replicate.com/anthropic/claude-4.5-haiku) | Claude Haiku 4.5 gives you similar levels of coding performance but at one-third the cost and more than twice the speed | 11002 |
+| [pengdaqian2020/image-tagger](https://replicate.com/pengdaqian2020/image-tagger) | image tagger | 10899 |
+| [tmappdev/lang-segment-anything](https://replicate.com/tmappdev/lang-segment-anything) | Segment Anything with prompts | 10845 |
+| [men1scus/birefnet](https://replicate.com/men1scus/birefnet) | Bilateral Reference for High-Resolution Dichotomous Image Segmentation (CAAI AIR 2024) | 10457 |
+| [salesforce/blip](https://replicate.com/salesforce/blip) | Generate image captions | 10452 |
+| [franz-biz/yolo-world-xl](https://replicate.com/franz-biz/yolo-world-xl) | Real-Time Open-Vocabulary Object Detection using the xl weights | 10100 |
+| [openai/clip](https://replicate.com/openai/clip) | Official CLIP models, generate CLIP (clip-vit-large-patch14) text & image embeddings | 9168 |
+| [ideogram-ai/ideogram-v3-turbo](https://replicate.com/ideogram-ai/ideogram-v3-turbo) | Turbo is the fastest and cheapest Ideogram v3. v3 creates images with stunning realism, creative designs, and consistent styles | 9109 |
+| [openai/gpt-4.1-mini](https://replicate.com/openai/gpt-4.1-mini) | Fast, affordable version of GPT-4.1 | 9043 |
+| [black-forest-labs/flux-kontext-dev](https://replicate.com/black-forest-labs/flux-kontext-dev) | Open-weight version of FLUX.1 Kontext | 8991 |
+| [stability-ai/sdxl](https://replicate.com/stability-ai/sdxl) | A text-to-image generative AI model that creates beautiful images | 8955 |
+| [lucataco/codeformer](https://replicate.com/lucataco/codeformer) | Robust face restoration algorithm for old photos/AI-generated faces | 8729 |
+| [openai/gpt-5.2](https://replicate.com/openai/gpt-5.2) | The best model for coding and agentic tasks across industries | 8709 |
+| [recraft-ai/recraft-v4](https://replicate.com/recraft-ai/recraft-v4) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 8687 |
+| [zedge/real-esrgan](https://replicate.com/zedge/real-esrgan) | Private instance of real-esrgan | 8201 |
+| [meta/llama-4-maverick-instruct](https://replicate.com/meta/llama-4-maverick-instruct) | A 17 billion parameter model with 128 experts | 7585 |
+| [minimax/speech-02-hd](https://replicate.com/minimax/speech-02-hd) | Text-to-Audio (T2A) that offers voice synthesis, emotional expression, and multilingual capabilities. Optimized for high-fidelity applications like voiceovers and audiobooks. | 7455 |
+| [google/upscaler](https://replicate.com/google/upscaler) | Upscale images 2x or 4x times | 7438 |
+| [cjwbw/clip-vit-large-patch14](https://replicate.com/cjwbw/clip-vit-large-patch14) | openai/clip-vit-large-patch14 with Transformers | 7273 |
+| [prunaai/flux.1-dev-lora](https://replicate.com/prunaai/flux.1-dev-lora) | This is a 3x faster FLUX.1 [dev] model from Black Forest Labs, optimised with pruna with minimal quality loss. | 6671 |
+| [google/imagen-4-fast](https://replicate.com/google/imagen-4-fast) | Use this fast version of Imagen 4 when speed and cost are more important than quality | 6530 |
+| [qwen/qwen3-235b-a22b-instruct-2507](https://replicate.com/qwen/qwen3-235b-a22b-instruct-2507) | Updated Qwen3 model for instruction following | 6483 |
+| [openai/gpt-5-mini](https://replicate.com/openai/gpt-5-mini) | Faster version of OpenAI's flagship GPT-5 model | 6295 |
+| [black-forest-labs/flux-1.1-pro-ultra](https://replicate.com/black-forest-labs/flux-1.1-pro-ultra) | FLUX1.1 [pro] in ultra and raw modes. Images are up to 4 megapixels. Use raw mode for realism. | 6289 |
+| [recraft-ai/recraft-vectorize](https://replicate.com/recraft-ai/recraft-vectorize) | Convert raster images to high-quality SVG format with precision and clean vector paths, perfect for logos, icons, and scalable graphics. | 6270 |
+| [zylim0702/remove-object](https://replicate.com/zylim0702/remove-object) | The LaMa (Large Mask Inpainting) model is an advanced image inpainting system designed to address the challenges of handling large missing areas, complex geometric structures, and high-resolution images. | 6113 |
+| [google/gemini-3.1-pro](https://replicate.com/google/gemini-3.1-pro) | Google's most intelligent model, with improved reasoning and a new medium thinking level | 6101 |
+| [bytedance/seedance-1-pro-fast](https://replicate.com/bytedance/seedance-1-pro-fast) | A faster and cheaper version of Seedance 1 Pro | 5975 |
+| [recraft-ai/recraft-remove-background](https://replicate.com/recraft-ai/recraft-remove-background) | Automated background removal for images. Tuned for AI-generated content, product photos, portraits, and design workflows | 5946 |
+| [zedge/zoedepth](https://replicate.com/zedge/zoedepth) | null | 5919 |
+| [prunaai/flux-2-turbo](https://replicate.com/prunaai/flux-2-turbo) | Image generation and editing with a distilled FLUX.2 [dev] by FAL. | 5769 |
+| [cjwbw/rembg](https://replicate.com/cjwbw/rembg) | Remove images background | 5642 |
+| [openai/whisper](https://replicate.com/openai/whisper) | Convert speech in audio to text | 5541 |
+| [bytedance/seedance-2.0-fast](https://replicate.com/bytedance/seedance-2.0-fast) | A faster variant of Seedance 2.0 for quicker video generation with multimodal inputs and native audio. | 5510 |
 | [bytedance/seedance-1-pro](https://replicate.com/bytedance/seedance-1-pro) | A pro version of Seedance that offers text-to-video and image-to-video support for 5s or 10s videos, at 480p and 1080p resolution | 5362 |
-| [bytedance/seedance-1-pro-fast](https://replicate.com/bytedance/seedance-1-pro-fast) | A faster and cheaper version of Seedance 1 Pro | 5220 |
-| [meta/llama-4-maverick-instruct](https://replicate.com/meta/llama-4-maverick-instruct) | A 17 billion parameter model with 128 experts | 5067 |
-| [recraft-ai/recraft-vectorize](https://replicate.com/recraft-ai/recraft-vectorize) | Convert raster images to high-quality SVG format with precision and clean vector paths, perfect for logos, icons, and scalable graphics. | 4924 |
-| [openai/gpt-5](https://replicate.com/openai/gpt-5) | OpenAI's new model excelling at coding, writing, and reasoning. | 4917 |
-| [ryan5453/demucs](https://replicate.com/ryan5453/demucs) | Demucs is an audio source separator created by Facebook Research. | 4905 |
-| [kwaivgi/kling-v2.6](https://replicate.com/kwaivgi/kling-v2.6) | Kling 2.6 Pro: Top-tier image-to-video with cinematic visuals, fluid motion, and native audio generation | 4801 |
-| [openai/whisper](https://replicate.com/openai/whisper) | Convert speech in audio to text | 4724 |
-| [meronym/speaker-diarization](https://replicate.com/meronym/speaker-diarization) | Segments an audio recording based on who is speaking | 4586 |
-| [minimax/speech-2.6-turbo](https://replicate.com/minimax/speech-2.6-turbo) | Low‑latency MiniMax Speech 2.6 Turbo brings multilingual, emotional text-to-speech to Replicate with 300+ voices and real-time friendly pricing | 4531 |
-| [datacte/proteus-v0.3](https://replicate.com/datacte/proteus-v0.3) | ProteusV0.3: The Anime Update | 4519 |
-| [fofr/sdxl-emoji](https://replicate.com/fofr/sdxl-emoji) | An SDXL fine-tune based on Apple Emojis | 4433 |
-| [sdxl-based/realvisxl-v3-multi-controlnet-lora](https://replicate.com/sdxl-based/realvisxl-v3-multi-controlnet-lora) | RealVisXl V3 with multi-controlnet, lora loading, img2img, inpainting | 4370 |
-| [recraft-ai/recraft-remove-background](https://replicate.com/recraft-ai/recraft-remove-background) | Automated background removal for images. Tuned for AI-generated content, product photos, portraits, and design workflows | 4356 |
-| [codeplugtech/face-swap](https://replicate.com/codeplugtech/face-swap) | Advance Face Swap powered by pixalto.app | 4340 |
-| [openai/gpt-oss-20b](https://replicate.com/openai/gpt-oss-20b) | 20b open-weight language model from OpenAI | 4331 |
-| [fofr/flux-black-light](https://replicate.com/fofr/flux-black-light) | A flux lora fine-tuned on black light images | 4320 |
-| [bytedance/seedance-1-lite](https://replicate.com/bytedance/seedance-1-lite) | A video generation model that offers text-to-video and image-to-video support for 5s or 10s videos, at 480p and 720p resolution | 4317 |
-| [datacte/proteus-v0.2](https://replicate.com/datacte/proteus-v0.2) | Proteus v0.2 shows subtle yet significant improvements over Version 0.1. It demonstrates enhanced prompt understanding that surpasses MJ6, while also approaching its stylistic capabilities. | 4240 |
-| [minimax/speech-02-hd](https://replicate.com/minimax/speech-02-hd) | Text-to-Audio (T2A) that offers voice synthesis, emotional expression, and multilingual capabilities. Optimized for high-fidelity applications like voiceovers and audiobooks. | 4150 |
-| [cjwbw/real-esrgan](https://replicate.com/cjwbw/real-esrgan) | Real-ESRGAN: Real-World Blind Super-Resolution | 4066 |
-| [prunaai/p-image-upscale](https://replicate.com/prunaai/p-image-upscale) | Fastest image upscaler in the world (<1s) supporting outputs up to 8 MP. Upscales images to 4 MP in under one second. | 3949 |
-| [minimax/image-01](https://replicate.com/minimax/image-01) | Minimax's first image model, with character reference support | 3773 |
-| [black-forest-labs/flux-2-flex](https://replicate.com/black-forest-labs/flux-2-flex) | Max-quality image generation and editing with support for ten reference images | 3756 |
-| [zsxkib/mmaudio](https://replicate.com/zsxkib/mmaudio) | Add sound to video using the MMAudio V2 model. An advanced AI model that synthesizes high-quality audio from video content, enabling seamless video-to-audio transformation. | 3739 |
-| [kwaivgi/kling-v2.5-turbo-pro](https://replicate.com/kwaivgi/kling-v2.5-turbo-pro) | Kling 2.5 Turbo Pro: Unlock pro-level text-to-video and image-to-video creation with smooth motion, cinematic depth, and remarkable prompt adherence. | 3730 |
-| [cjwbw/animagine-xl-3.1](https://replicate.com/cjwbw/animagine-xl-3.1) | Anime-themed text-to-image stable diffusion model | 3553 |
-| [qwen/qwen-image-edit-2511](https://replicate.com/qwen/qwen-image-edit-2511) | An enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements including notably better consistency | 3506 |
-| [aisha-ai-official/anillustrious-v4](https://replicate.com/aisha-ai-official/anillustrious-v4) | null | 3444 |
-| [inworld/realtime-tts-1.5-max](https://replicate.com/inworld/realtime-tts-1.5-max) | Highest-quality realtime text-to-speech with <200ms latency, emotion control, and 15-language support | 3439 |
-| [anthropic/claude-4-sonnet](https://replicate.com/anthropic/claude-4-sonnet) | Claude Sonnet 4 is a significant upgrade to 3.7, delivering superior coding and reasoning while responding more precisely to your instructions | 3348 |
-| [adirik/interior-design](https://replicate.com/adirik/interior-design) | Realistic interior design with text and image inputs | 3318 |
-| [philz1337x/crystal-upscaler](https://replicate.com/philz1337x/crystal-upscaler) | High-precision image upscaler optimized for portraits, faces and products. One of the upscale modes powered by Clarity AI. X:https://x.com/philz1337x | 3312 |
-| [google/imagen-4](https://replicate.com/google/imagen-4) | Google's Imagen 4 flagship model | 3298 |
-| [tencentarc/vqfr](https://replicate.com/tencentarc/vqfr) | Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder | 3282 |
-| [qwen/qwen-image-edit](https://replicate.com/qwen/qwen-image-edit) | Edit images using a prompt. This model extends Qwen-Image’s unique text rendering capabilities to image editing tasks, enabling precise text editing | 3213 |
-| [tencentarc/photomaker](https://replicate.com/tencentarc/photomaker) | Create photos, paintings and avatars for anyone in any style within seconds. | 3154 |
-| [qwen/qwen-image-edit-plus-lora](https://replicate.com/qwen/qwen-image-edit-plus-lora) | Qwen Image Edit 2509 LoRA explorer, uses HuggingFace URLs to load any safetensor | 3091 |
-| [zedge/emoji-generator](https://replicate.com/zedge/emoji-generator) | null | 2981 |
-| [zsxkib/realistic-voice-cloning](https://replicate.com/zsxkib/realistic-voice-cloning) | Create song covers with any RVC v2 trained AI voice from audio files. | 2961 |
-| [fofr/sticker-maker](https://replicate.com/fofr/sticker-maker) | Make stickers with AI. Generates graphics with transparent backgrounds. | 2949 |
-| [runwayml/gen4-image](https://replicate.com/runwayml/gen4-image) | Runway's Gen-4 Image model with references. Use up to 3 reference images to create the exact image you need. Capture every angle. | 2935 |
-| [meta/meta-llama-3-8b](https://replicate.com/meta/meta-llama-3-8b) | Base version of Llama 3, an 8 billion parameter language model from Meta. | 2929 |
-| [zedge/live-portrait](https://replicate.com/zedge/live-portrait) | null | 2913 |
-| [zedge/instantid](https://replicate.com/zedge/instantid) | null | 2903 |
-| [xai/grok-text-to-speech](https://replicate.com/xai/grok-text-to-speech) | Convert text to natural-sounding speech with xAI's Grok TTS. 5 voices, 20 languages, expressive speech tags, and high-fidelity MP3 / WAV / telephony audio output. | 2779 |
-| [andreasjansson/blip-2](https://replicate.com/andreasjansson/blip-2) | Answers questions about images | 2761 |
-| [minimax/hailuo-2.3-fast](https://replicate.com/minimax/hailuo-2.3-fast) | A lower-latency image-to-video version of Hailuo 2.3 that preserves core motion quality, visual consistency, and stylization performance while enabling faster iteration cycles. | 2727 |
-| [kwaivgi/kling-v2.1](https://replicate.com/kwaivgi/kling-v2.1) | Use Kling v2.1 to generate 5s and 10s videos in 720p and 1080p resolution from a starting image (image-to-video) | 2694 |
-| [lucataco/frame-extractor](https://replicate.com/lucataco/frame-extractor) | Extract the first or last frame from any video file as a high-quality image | 2677 |
-| [meta/llama-4-scout-instruct](https://replicate.com/meta/llama-4-scout-instruct) | A 17 billion parameter model with 16 experts | 2645 |
-| [recraft-ai/recraft-v3](https://replicate.com/recraft-ai/recraft-v3) | Recraft V3 (code-named red_panda) is a text-to-image model with the ability to generate long texts, and images in a wide list of styles. As of today, it is SOTA in image generation, proven by the Text-to-Image Benchmark by Artificial Analysis | 2641 |
-| [kwaivgi/kling-v3-omni-video](https://replicate.com/kwaivgi/kling-v3-omni-video) | Kling Video 3.0 Omni: Unified multimodal video generation with reference images, video editing, native audio, and multi-shot control | 2629 |
-| [kwaivgi/kling-v3-video](https://replicate.com/kwaivgi/kling-v3-video) | Kling Video 3.0: Generate cinematic videos up to 15 seconds with multi-shot control, native audio, and improved consistency | 2604 |
-| [charlesmccarthy/addwatermark](https://replicate.com/charlesmccarthy/addwatermark) | Add a watermark to your videos using the power of Replicate brought to you from your friends at FullJourney.AI | 2574 |
-| [google/gemini-3-pro](https://replicate.com/google/gemini-3-pro) | Google's most advanced reasoning Gemini model | 2491 |
-| [xinntao/realesrgan](https://replicate.com/xinntao/realesrgan) | Practical Image Restoration Algorithms for General/Anime Images | 2486 |
-| [mattsays/sam3-image](https://replicate.com/mattsays/sam3-image) | A unified foundation model for prompt-based segmentation in images and videos | 2480 |
-| [qwen/qwen-image](https://replicate.com/qwen/qwen-image) | An image generation foundation model in the Qwen series that achieves significant advances in complex text rendering. | 2478 |
-| [google/gemini-3.1-flash-tts](https://replicate.com/google/gemini-3.1-flash-tts) | Google's fast, expressive text-to-speech model with 30 voices and 70+ language support | 2440 |
-| [google/lyria-3](https://replicate.com/google/lyria-3) | Generate 30-second music clips from text prompts or images with Lyria 3, Google's music generation model | 2431 |
-| [ideogram-ai/ideogram-v2](https://replicate.com/ideogram-ai/ideogram-v2) | An excellent image model with state of the art inpainting, prompt comprehension and text rendering | 2338 |
-| [google/veo-3.1-fast](https://replicate.com/google/veo-3.1-fast) | New and improved version of Veo 3 Fast, with higher-fidelity video, context-aware audio and last frame support | 2285 |
-| [wan-video/wan-2.2-5b-fast](https://replicate.com/wan-video/wan-2.2-5b-fast) | The fastest Wan 2.2 text-to-image and image-to-video model | 2229 |
-| [prunaai/p-image-edit-lora](https://replicate.com/prunaai/p-image-edit-lora) | Use trained LoRAs from the https://replicate.com/prunaai/p-image-edit-trainer. Find or contribute LoRAs here: https://huggingface.co/collections/PrunaAI/p-image-edit-loras. | 2218 |
-| [kwaivgi/kling-v3-motion-control](https://replicate.com/kwaivgi/kling-v3-motion-control) | Kling 3.0 motion control: transfer motion from a reference video to any character image with improved consistency and quality. | 2093 |
-| [prunaai/z-image-turbo-lora](https://replicate.com/prunaai/z-image-turbo-lora) | Lora version of Z-Image Turbo, which is a super fast text-to-image model of 6B parameters developed by Tongyi-MAI. | 2092 |
-| [resemble-ai/chatterbox-turbo](https://replicate.com/resemble-ai/chatterbox-turbo) | The fastest open source TTS model without sacrificing quality. | 2078 |
-| [cjwbw/demucs](https://replicate.com/cjwbw/demucs) | Demucs Music Source Separation | 2055 |
-| [prunaai/hidream-l1-fast](https://replicate.com/prunaai/hidream-l1-fast) | This is an optimised version of the hidream-l1 model using the pruna ai optimisation toolkit! | 2038 |
-| [prunaai/stable-diffusion-cheetah](https://replicate.com/prunaai/stable-diffusion-cheetah) | This model is an optimised version of stable-diffusion by stability AI that is 3x faster and 3x cheaper. | 2036 |
-| [prunaai/p-video-avatar](https://replicate.com/prunaai/p-video-avatar) | p-video-avatar is the fastest and cheapest avatar/lipsync video model on the market. | 2025 |
-| [stability-ai/stable-diffusion-3.5-large](https://replicate.com/stability-ai/stable-diffusion-3.5-large) | A text-to-image model that generates high-resolution images with fine details. It supports various artistic styles and produces diverse outputs from the same prompt, thanks to Query-Key Normalization. | 1983 |
-| [openai/dall-e-3](https://replicate.com/openai/dall-e-3) | An AI system that can create realistic images and art from a description in natural language. | 1966 |
-| [black-forest-labs/flux-fill-dev](https://replicate.com/black-forest-labs/flux-fill-dev) | Open-weight inpainting model for editing and extending images. Guidance-distilled from FLUX.1 Fill [pro]. | 1964 |
-| [openai/gpt-4o](https://replicate.com/openai/gpt-4o) | OpenAI's high-intelligence chat model | 1952 |
-| [qwen/qwen-edit-multiangle](https://replicate.com/qwen/qwen-edit-multiangle) | Camera-aware edits for Qwen/Qwen-Image-Edit-2509 with Lightning + multi-angle LoRA | 1925 |
-| [fofr/face-to-many](https://replicate.com/fofr/face-to-many) | Turn a face into 3D, emoji, pixel art, video game, claymation or toy | 1921 |
-| [openai/gpt-image-1](https://replicate.com/openai/gpt-image-1) | A multimodal image generation model that creates high-quality images. You need to bring your own verified OpenAI key to use this model. Your OpenAI account will be charged for usage. | 1917 |
-| [qwen/qwen3-235b-a22b-instruct-2507](https://replicate.com/qwen/qwen3-235b-a22b-instruct-2507) | Updated Qwen3 model for instruction following | 1902 |
-| [runwayml/gen-4.5](https://replicate.com/runwayml/gen-4.5) | State-of-the-art video motion quality, prompt adherence and visual fidelity | 1868 |
-| [google/gemini-2.5-flash-image](https://replicate.com/google/gemini-2.5-flash-image) | Google's latest image generation model in Gemini 2.5 | 1866 |
-| [xai/grok-imagine-image-quality](https://replicate.com/xai/grok-imagine-image-quality) | xAI's higher-quality image model with sharper details, better text rendering, and 2k output | 1848 |
-| [playgroundai/playground-v2.5-1024px-aesthetic](https://replicate.com/playgroundai/playground-v2.5-1024px-aesthetic) | Playground v2.5 is the state-of-the-art open-source model in aesthetic quality | 1834 |
-| [simbrams/segformer-b5-finetuned-ade-640-640](https://replicate.com/simbrams/segformer-b5-finetuned-ade-640-640) | Semantic Segmentation | 1765 |
-| [anthropic/claude-opus-4.7](https://replicate.com/anthropic/claude-opus-4.7) | Anthropic's most capable model with a step-change improvement in agentic coding, better vision, and stronger multi-step reasoning | 1763 |
-| [bytedance/pulid](https://replicate.com/bytedance/pulid) | 📖 PuLID: Pure and Lightning ID Customization via Contrastive Alignment | 1738 |
-| [pixverse/pixverse-v6](https://replicate.com/pixverse/pixverse-v6) | PixVerse's flagship video generation model. Generate cinematic videos with synchronized audio, multi-shot sequences, and precise camera control. | 1735 |
-| [flux-kontext-apps/restore-image](https://replicate.com/flux-kontext-apps/restore-image) | Use FLUX Kontext to restore, fix scratches and damage, and colorize old photos | 1689 |
-| [openai/gpt-5-structured](https://replicate.com/openai/gpt-5-structured) | GPT-5 with support for structured outputs, web search and custom tools | 1646 |
-| [lucataco/qwen2-vl-7b-instruct](https://replicate.com/lucataco/qwen2-vl-7b-instruct) | Latest model in the Qwen family for chatting with video and image models | 1597 |
-| [mrhan1993/fooocus-api](https://replicate.com/mrhan1993/fooocus-api) | null | 1585 |
-| [bytedance/seedream-3](https://replicate.com/bytedance/seedream-3) | A text-to-image model with support for native high-resolution (2K) image generation | 1581 |
-| [black-forest-labs/flux-fill-pro](https://replicate.com/black-forest-labs/flux-fill-pro) | Professional inpainting and outpainting model with state-of-the-art performance. Edit or extend images with natural, seamless results. | 1562 |
-| [google/imagen-4-ultra](https://replicate.com/google/imagen-4-ultra) | Use this ultra version of Imagen 4 when quality matters more than speed and cost | 1499 |
-| [pixverse/lipsync](https://replicate.com/pixverse/lipsync) | Generate realistic lipsync animations from audio for high-quality synchronization | 1474 |
-| [black-forest-labs/flux-dev-lora](https://replicate.com/black-forest-labs/flux-dev-lora) | A version of flux-dev, a text to image model, that supports fast fine-tuned lora inference | 1458 |
-| [wan-video/wan-2.7-image-pro](https://replicate.com/wan-video/wan-2.7-image-pro) | Generate and edit high-quality images with Alibaba's Wan 2.7 Pro with 4K output, thinking mode, text-to-image, multi-image editing, and image set generation | 1450 |
-| [bria/eraser](https://replicate.com/bria/eraser) | SOTA Object removal, enables precise removal of unwanted objects from images while maintaining high-quality outputs. Trained exclusively on licensed data for safe and risk-free commercial use | 1424 |
-| [cuuupid/idm-vton](https://replicate.com/cuuupid/idm-vton) | Best-in-class clothing virtual try on in the wild (non-commercial use only) | 1417 |
-| [meta/sam-2](https://replicate.com/meta/sam-2) | SAM 2: Segment Anything v2 (for Images) | 1398 |
-| [declare-lab/tangoflux](https://replicate.com/declare-lab/tangoflux) | Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization | 1388 |
-| [aisha-ai-official/flux.1schnell-uncensored-rasch3](https://replicate.com/aisha-ai-official/flux.1schnell-uncensored-rasch3) | null | 1383 |
-| [tencent/hunyuanvideo-foley](https://replicate.com/tencent/hunyuanvideo-foley) | (Research & Non-commercial use only) Text-Video-to-Audio Synthesis: Generate realistic audio from video and text descriptions | 1369 |
-| [minimax/speech-2.8-turbo](https://replicate.com/minimax/speech-2.8-turbo) | Minimax Speech 2.8 Turbo: Turn text into natural, expressive speech with voice cloning, emotion control, and support for 40+ languages | 1359 |
-| [bytedance/flux-pulid](https://replicate.com/bytedance/flux-pulid) | ⚡️FLUX PuLID: FLUX-dev based Pure and Lightning ID Customization via Contrastive Alignment🎭 | 1349 |
-| [kwaivgi/kling-v2.6-motion-control](https://replicate.com/kwaivgi/kling-v2.6-motion-control) | Enables precise control of character actions and expressions from a reference image. | 1325 |
-| [lucataco/sdxl-inpainting](https://replicate.com/lucataco/sdxl-inpainting) | SDXL Inpainting by the HF Diffusers team | 1320 |
-| [arielreplicate/robust_video_matting](https://replicate.com/arielreplicate/robust_video_matting) | extract foreground of a video | 1275 |
-| [prunaai/p-image-lora](https://replicate.com/prunaai/p-image-lora) | Use trained LoRAs from the https://replicate.com/prunaai/p-image-trainer. Find or contribute LoRAs here https://huggingface.co/collections/PrunaAI/p-image-loras | 1274 |
+| [minimax/speech-2.6-turbo](https://replicate.com/minimax/speech-2.6-turbo) | Low‑latency MiniMax Speech 2.6 Turbo brings multilingual, emotional text-to-speech to Replicate with 300+ voices and real-time friendly pricing | 5344 |
+| [kwaivgi/kling-v2.5-turbo-pro](https://replicate.com/kwaivgi/kling-v2.5-turbo-pro) | Kling 2.5 Turbo Pro: Unlock pro-level text-to-video and image-to-video creation with smooth motion, cinematic depth, and remarkable prompt adherence. | 5217 |
+| [ryan5453/demucs](https://replicate.com/ryan5453/demucs) | Demucs is an audio source separator created by Facebook Research. | 5186 |
+| [datacte/proteus-v0.3](https://replicate.com/datacte/proteus-v0.3) | ProteusV0.3: The Anime Update | 5091 |
+| [kwaivgi/kling-v2.6](https://replicate.com/kwaivgi/kling-v2.6) | Kling 2.6 Pro: Top-tier image-to-video with cinematic visuals, fluid motion, and native audio generation | 5071 |
+| [anthropic/claude-3.7-sonnet](https://replicate.com/anthropic/claude-3.7-sonnet) | The most intelligent Claude model and the first hybrid reasoning model on the market (claude-3-7-sonnet-20250219) | 4986 |
+| [piddnad/ddcolor](https://replicate.com/piddnad/ddcolor) | Towards Photo-Realistic Image Colorization via Dual Decoders | 4973 |
+| [openai/gpt-4o](https://replicate.com/openai/gpt-4o) | OpenAI's high-intelligence chat model | 4934 |
+| [qwen/qwen-image-edit](https://replicate.com/qwen/qwen-image-edit) | Edit images using a prompt. This model extends Qwen-Image’s unique text rendering capabilities to image editing tasks, enabling precise text editing | 4790 |
+| [openai/gpt-5](https://replicate.com/openai/gpt-5) | OpenAI's new model excelling at coding, writing, and reasoning. | 4745 |
+| [datacte/proteus-v0.2](https://replicate.com/datacte/proteus-v0.2) | Proteus v0.2 shows subtle yet significant improvements over Version 0.1. It demonstrates enhanced prompt understanding that surpasses MJ6, while also approaching its stylistic capabilities. | 4729 |
+| [daanelson/real-esrgan-a100](https://replicate.com/daanelson/real-esrgan-a100) | Real-ESRGAN for image upscaling on an A100 | 4591 |
+| [abiruyt/text-extract-ocr](https://replicate.com/abiruyt/text-extract-ocr) | A simple OCR Model that can easily extract text from an image. | 4569 |
+| [kwaivgi/kling-v3-omni-video](https://replicate.com/kwaivgi/kling-v3-omni-video) | Kling Video 3.0 Omni: Unified multimodal video generation with reference images, video editing, native audio, and multi-shot control | 4534 |
+| [cdingram/face-swap](https://replicate.com/cdingram/face-swap) | Image to image face swapping | 4496 |
+| [openai/gpt-5-structured](https://replicate.com/openai/gpt-5-structured) | GPT-5 with support for structured outputs, web search and custom tools | 4467 |
+| [fofr/sdxl-emoji](https://replicate.com/fofr/sdxl-emoji) | An SDXL fine-tune based on Apple Emojis | 4467 |
+| [codeplugtech/face-swap](https://replicate.com/codeplugtech/face-swap) | Advance Face Swap powered by pixalto.app | 4446 |
+| [andreasjansson/blip-2](https://replicate.com/andreasjansson/blip-2) | Answers questions about images | 4445 |
+| [philz1337x/crystal-upscaler](https://replicate.com/philz1337x/crystal-upscaler) | High-precision image upscaler optimized for portraits, faces and products. One of the upscale modes powered by Clarity AI. X:https://x.com/philz1337x | 4440 |
+| [meronym/speaker-diarization](https://replicate.com/meronym/speaker-diarization) | Segments an audio recording based on who is speaking | 4396 |
+| [prunaai/p-image-upscale](https://replicate.com/prunaai/p-image-upscale) | Fastest image upscaler in the world (<1s) supporting outputs up to 8 MP. Upscales images to 4 MP in under one second. | 4377 |
+| [comfyui/any-comfyui-workflow](https://replicate.com/comfyui/any-comfyui-workflow) | Run any ComfyUI workflow. Guide: https://github.com/replicate/cog-comfyui | 4376 |
+| [fofr/flux-black-light](https://replicate.com/fofr/flux-black-light) | A flux lora fine-tuned on black light images | 4331 |
+| [meta/llama-4-scout-instruct](https://replicate.com/meta/llama-4-scout-instruct) | A 17 billion parameter model with 16 experts | 4245 |
+| [bytedance/seedance-1-lite](https://replicate.com/bytedance/seedance-1-lite) | A video generation model that offers text-to-video and image-to-video support for 5s or 10s videos, at 480p and 720p resolution | 4136 |
+| [fofr/sticker-maker](https://replicate.com/fofr/sticker-maker) | Make stickers with AI. Generates graphics with transparent backgrounds. | 4028 |
+| [cjwbw/real-esrgan](https://replicate.com/cjwbw/real-esrgan) | Real-ESRGAN: Real-World Blind Super-Resolution | 3866 |
+| [adirik/interior-design](https://replicate.com/adirik/interior-design) | Realistic interior design with text and image inputs | 3863 |
+| [inworld/realtime-tts-1.5-mini](https://replicate.com/inworld/realtime-tts-1.5-mini) | Ultra-fast, cost-efficient realtime text-to-speech with ~120ms latency and 15-language support | 3688 |
+| [wan-video/wan-2.2-5b-fast](https://replicate.com/wan-video/wan-2.2-5b-fast) | The fastest Wan 2.2 text-to-image and image-to-video model | 3609 |
+| [recraft-ai/recraft-v3](https://replicate.com/recraft-ai/recraft-v3) | Recraft V3 (code-named red_panda) is a text-to-image model with the ability to generate long texts, and images in a wide list of styles. As of today, it is SOTA in image generation, proven by the Text-to-Image Benchmark by Artificial Analysis | 3479 |
+| [resemble-ai/chatterbox-turbo](https://replicate.com/resemble-ai/chatterbox-turbo) | The fastest open source TTS model without sacrificing quality. | 3385 |
+| [minimax/image-01](https://replicate.com/minimax/image-01) | Minimax's first image model, with character reference support | 3363 |
+| [zsxkib/mmaudio](https://replicate.com/zsxkib/mmaudio) | Add sound to video using the MMAudio V2 model. An advanced AI model that synthesizes high-quality audio from video content, enabling seamless video-to-audio transformation. | 3353 |
+| [qwen/qwen-image-edit-2511](https://replicate.com/qwen/qwen-image-edit-2511) | An enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements including notably better consistency | 3347 |
+| [kwaivgi/kling-v3-video](https://replicate.com/kwaivgi/kling-v3-video) | Kling Video 3.0: Generate cinematic videos up to 15 seconds with multi-shot control, native audio, and improved consistency | 3333 |
+| [anthropic/claude-4-sonnet](https://replicate.com/anthropic/claude-4-sonnet) | Claude Sonnet 4 is a significant upgrade to 3.7, delivering superior coding and reasoning while responding more precisely to your instructions | 3272 |
+| [aisha-ai-official/anillustrious-v4](https://replicate.com/aisha-ai-official/anillustrious-v4) | null | 3165 |
+| [zsxkib/realistic-voice-cloning](https://replicate.com/zsxkib/realistic-voice-cloning) | Create song covers with any RVC v2 trained AI voice from audio files. | 3110 |
+| [google/gemini-3.1-flash-tts](https://replicate.com/google/gemini-3.1-flash-tts) | Google's fast, expressive text-to-speech model with 30 voices and 70+ language support | 3107 |
+| [lucataco/frame-extractor](https://replicate.com/lucataco/frame-extractor) | Extract the first or last frame from any video file as a high-quality image | 3045 |
+| [zedge/emoji-generator](https://replicate.com/zedge/emoji-generator) | null | 3021 |
+| [ibm-granite/granite-vision-3.3-2b](https://replicate.com/ibm-granite/granite-vision-3.3-2b) | Granite-vision-3.3-2b is a compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more. | 2969 |
+| [kwaivgi/kling-v3-motion-control](https://replicate.com/kwaivgi/kling-v3-motion-control) | Kling 3.0 motion control: transfer motion from a reference video to any character image with improved consistency and quality. | 2955 |
+| [cjwbw/animagine-xl-3.1](https://replicate.com/cjwbw/animagine-xl-3.1) | Anime-themed text-to-image stable diffusion model | 2942 |
+| [zedge/live-portrait](https://replicate.com/zedge/live-portrait) | null | 2911 |
+| [zedge/instantid](https://replicate.com/zedge/instantid) | null | 2911 |
+| [tencentarc/photomaker](https://replicate.com/tencentarc/photomaker) | Create photos, paintings and avatars for anyone in any style within seconds. | 2866 |
+| [qwen/qwen-image-edit-plus-lora](https://replicate.com/qwen/qwen-image-edit-plus-lora) | Qwen Image Edit 2509 LoRA explorer, uses HuggingFace URLs to load any safetensor | 2849 |
+| [charlesmccarthy/addwatermark](https://replicate.com/charlesmccarthy/addwatermark) | Add a watermark to your videos using the power of Replicate brought to you from your friends at FullJourney.AI | 2844 |
+| [kwaivgi/kling-v2.1](https://replicate.com/kwaivgi/kling-v2.1) | Use Kling v2.1 to generate 5s and 10s videos in 720p and 1080p resolution from a starting image (image-to-video) | 2840 |
+| [resemble-ai/chatterbox](https://replicate.com/resemble-ai/chatterbox) | Generate expressive, natural speech. Features unique emotion control, instant voice cloning from short audio, and built-in watermarking. | 2779 |
+| [prunaai/p-image-edit-lora](https://replicate.com/prunaai/p-image-edit-lora) | Use trained LoRAs from the https://replicate.com/prunaai/p-image-edit-trainer. Find or contribute LoRAs here: https://huggingface.co/collections/PrunaAI/p-image-edit-loras. | 2576 |
+| [runwayml/gen4-image](https://replicate.com/runwayml/gen4-image) | Runway's Gen-4 Image model with references. Use up to 3 reference images to create the exact image you need. Capture every angle. | 2500 |
+| [google/lyria-3](https://replicate.com/google/lyria-3) | Generate 30-second music clips from text prompts or images with Lyria 3, Google's music generation model | 2457 |
+| [fofr/face-to-many](https://replicate.com/fofr/face-to-many) | Turn a face into 3D, emoji, pixel art, video game, claymation or toy | 2429 |
+| [inworld/realtime-tts-1.5-max](https://replicate.com/inworld/realtime-tts-1.5-max) | Highest-quality realtime text-to-speech with <200ms latency, emotion control, and 15-language support | 2423 |
+| [minimax/speech-2.8-turbo](https://replicate.com/minimax/speech-2.8-turbo) | Minimax Speech 2.8 Turbo: Turn text into natural, expressive speech with voice cloning, emotion control, and support for 40+ languages | 2402 |
+| [cjwbw/demucs](https://replicate.com/cjwbw/demucs) | Demucs Music Source Separation | 2402 |
+| [runwayml/gen-4.5](https://replicate.com/runwayml/gen-4.5) | State-of-the-art video motion quality, prompt adherence and visual fidelity | 2386 |
+| [google/gemini-3-pro](https://replicate.com/google/gemini-3-pro) | Google's most advanced reasoning Gemini model | 2381 |
+| [mattsays/sam3-image](https://replicate.com/mattsays/sam3-image) | A unified foundation model for prompt-based segmentation in images and videos | 2366 |
+| [black-forest-labs/flux-fill-dev](https://replicate.com/black-forest-labs/flux-fill-dev) | Open-weight inpainting model for editing and extending images. Guidance-distilled from FLUX.1 Fill [pro]. | 2346 |
+| [qwen/qwen-edit-multiangle](https://replicate.com/qwen/qwen-edit-multiangle) | Camera-aware edits for Qwen/Qwen-Image-Edit-2509 with Lightning + multi-angle LoRA | 2331 |
+| [black-forest-labs/flux-fill-pro](https://replicate.com/black-forest-labs/flux-fill-pro) | Professional inpainting and outpainting model with state-of-the-art performance. Edit or extend images with natural, seamless results. | 2260 |
+| [minimax/hailuo-2.3-fast](https://replicate.com/minimax/hailuo-2.3-fast) | A lower-latency image-to-video version of Hailuo 2.3 that preserves core motion quality, visual consistency, and stylization performance while enabling faster iteration cycles. | 2255 |
+| [meta/meta-llama-3-8b](https://replicate.com/meta/meta-llama-3-8b) | Base version of Llama 3, an 8 billion parameter language model from Meta. | 2237 |
+| [wan-video/wan-2.7-image-pro](https://replicate.com/wan-video/wan-2.7-image-pro) | Generate and edit high-quality images with Alibaba's Wan 2.7 Pro with 4K output, thinking mode, text-to-image, multi-image editing, and image set generation | 2162 |
+| [tencent/hunyuanvideo-foley](https://replicate.com/tencent/hunyuanvideo-foley) | (Research & Non-commercial use only) Text-Video-to-Audio Synthesis: Generate realistic audio from video and text descriptions | 2131 |
+| [black-forest-labs/flux-2-flex](https://replicate.com/black-forest-labs/flux-2-flex) | Max-quality image generation and editing with support for ten reference images | 2110 |
+| [prunaai/z-image-turbo-lora](https://replicate.com/prunaai/z-image-turbo-lora) | Lora version of Z-Image Turbo, which is a super fast text-to-image model of 6B parameters developed by Tongyi-MAI. | 2095 |
+| [openai/dall-e-3](https://replicate.com/openai/dall-e-3) | An AI system that can create realistic images and art from a description in natural language. | 2064 |
+| [zsxkib/talknet-asd](https://replicate.com/zsxkib/talknet-asd) | 🗣️ TalkNet-ASD: Detect who is speaking in a video | 2064 |
+| [bytedance/pulid](https://replicate.com/bytedance/pulid) | 📖 PuLID: Pure and Lightning ID Customization via Contrastive Alignment | 2053 |
+| [google/veo-3.1-fast](https://replicate.com/google/veo-3.1-fast) | New and improved version of Veo 3 Fast, with higher-fidelity video, context-aware audio and last frame support | 2008 |
+| [pixverse/pixverse-v6](https://replicate.com/pixverse/pixverse-v6) | PixVerse's flagship video generation model. Generate cinematic videos with synchronized audio, multi-shot sequences, and precise camera control. | 1959 |
+| [xinntao/realesrgan](https://replicate.com/xinntao/realesrgan) | Practical Image Restoration Algorithms for General/Anime Images | 1955 |
+| [google/imagen-4](https://replicate.com/google/imagen-4) | Google's Imagen 4 flagship model | 1947 |
+| [simbrams/segformer-b5-finetuned-ade-640-640](https://replicate.com/simbrams/segformer-b5-finetuned-ade-640-640) | Semantic Segmentation | 1938 |
+| [flux-kontext-apps/restore-image](https://replicate.com/flux-kontext-apps/restore-image) | Use FLUX Kontext to restore, fix scratches and damage, and colorize old photos | 1856 |
+| [openai/gpt-image-1](https://replicate.com/openai/gpt-image-1) | A multimodal image generation model that creates high-quality images. You need to bring your own verified OpenAI key to use this model. Your OpenAI account will be charged for usage. | 1790 |
+| [black-forest-labs/flux-pro](https://replicate.com/black-forest-labs/flux-pro) | State-of-the-art image generation with top of the line prompt following, visual quality, image detail and output diversity. | 1760 |
+| [google/gemini-2.5-flash-image](https://replicate.com/google/gemini-2.5-flash-image) | Google's latest image generation model in Gemini 2.5 | 1711 |
+| [kwaivgi/kling-v2.6-motion-control](https://replicate.com/kwaivgi/kling-v2.6-motion-control) | Enables precise control of character actions and expressions from a reference image. | 1671 |
+| [bria/eraser](https://replicate.com/bria/eraser) | SOTA Object removal, enables precise removal of unwanted objects from images while maintaining high-quality outputs. Trained exclusively on licensed data for safe and risk-free commercial use | 1659 |
+| [playgroundai/playground-v2.5-1024px-aesthetic](https://replicate.com/playgroundai/playground-v2.5-1024px-aesthetic) | Playground v2.5 is the state-of-the-art open-source model in aesthetic quality | 1652 |
+| [xai/grok-imagine-image-quality](https://replicate.com/xai/grok-imagine-image-quality) | xAI's higher-quality image model with sharper details, better text rendering, and 2k output | 1640 |
+| [cuuupid/idm-vton](https://replicate.com/cuuupid/idm-vton) | Best-in-class clothing virtual try on in the wild (non-commercial use only) | 1600 |
+| [qwen/qwen-image](https://replicate.com/qwen/qwen-image) | An image generation foundation model in the Qwen series that achieves significant advances in complex text rendering. | 1594 |
+| [meta/sam-2](https://replicate.com/meta/sam-2) | SAM 2: Segment Anything v2 (for Images) | 1579 |
+| [resemble-ai/resemble-enhance](https://replicate.com/resemble-ai/resemble-enhance) | AI-driven audio enhancement for your audio files, powered by Resemble AI | 1563 |
+| [microsoft/omniparser-v2](https://replicate.com/microsoft/omniparser-v2) | OmniParser is a screen parsing tool to convert general GUI screen to structured elements. | 1561 |
+| [ideogram-ai/ideogram-v2](https://replicate.com/ideogram-ai/ideogram-v2) | An excellent image model with state of the art inpainting, prompt comprehension and text rendering | 1548 |
+| [mrhan1993/fooocus-api](https://replicate.com/mrhan1993/fooocus-api) | null | 1528 |
+| [black-forest-labs/flux-dev-lora](https://replicate.com/black-forest-labs/flux-dev-lora) | A version of flux-dev, a text to image model, that supports fast fine-tuned lora inference | 1491 |
+| [prunaai/hidream-l1-fast](https://replicate.com/prunaai/hidream-l1-fast) | This is an optimised version of the hidream-l1 model using the pruna ai optimisation toolkit! | 1447 |
+| [prunaai/stable-diffusion-cheetah](https://replicate.com/prunaai/stable-diffusion-cheetah) | This model is an optimised version of stable-diffusion by stability AI that is 3x faster and 3x cheaper. | 1446 |
+| [anthropic/claude-opus-4.7](https://replicate.com/anthropic/claude-opus-4.7) | Anthropic's most capable model with a step-change improvement in agentic coding, better vision, and stronger multi-step reasoning | 1421 |
+| [xai/grok-imagine-r2v](https://replicate.com/xai/grok-imagine-r2v) | Generate videos guided by reference images using xAI's Grok Imagine Video model | 1420 |
+| [prunaai/p-video-avatar](https://replicate.com/prunaai/p-video-avatar) | p-video-avatar is the fastest and cheapest avatar/lipsync video model on the market. | 1412 |
+| [prunaai/firered-image-edit](https://replicate.com/prunaai/firered-image-edit) | FireRed-Image-Edit is a general-purpose image editing model that delivers high-fidelity and consistent editing across a wide range of scenarios. | 1388 |
+| [zf-kbot/inpaint-and-guess-prompt](https://replicate.com/zf-kbot/inpaint-and-guess-prompt) | Use a mask to inpaint the image or generate a prompt based on the mask. | 1360 |
+| [lucataco/qwen2-vl-7b-instruct](https://replicate.com/lucataco/qwen2-vl-7b-instruct) | Latest model in the Qwen family for chatting with video and image models | 1344 |
+| [aisha-ai-official/flux.1schnell-uncensored-rasch3](https://replicate.com/aisha-ai-official/flux.1schnell-uncensored-rasch3) | null | 1331 |
+| [lucataco/sdxl-inpainting](https://replicate.com/lucataco/sdxl-inpainting) | SDXL Inpainting by the HF Diffusers team | 1331 |
+| [pixverse/lipsync](https://replicate.com/pixverse/lipsync) | Generate realistic lipsync animations from audio for high-quality synchronization | 1314 |
+| [aisha-ai-official/wai-nsfw-illustrious-v11](https://replicate.com/aisha-ai-official/wai-nsfw-illustrious-v11) | null | 1290 |
+| [declare-lab/tangoflux](https://replicate.com/declare-lab/tangoflux) | Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization | 1262 |
 | [lucataco/sdxl-controlnet](https://replicate.com/lucataco/sdxl-controlnet) | SDXL ControlNet - Canny | 1258 |
-| [topazlabs/video-upscale](https://replicate.com/topazlabs/video-upscale) | Video Upscaling from Topaz Labs | 1253 |
-| [google/veo-3.1](https://replicate.com/google/veo-3.1) | New and improved version of Veo 3, with higher-fidelity video, context-aware audio, reference image and last frame support | 1247 |
-| [firtoz/trellis](https://replicate.com/firtoz/trellis) | A powerful 3D asset generation model | 1244 |
-| [resemble-ai/resemble-enhance](https://replicate.com/resemble-ai/resemble-enhance) | AI-driven audio enhancement for your audio files, powered by Resemble AI | 1233 |
-| [piddnad/ddcolor](https://replicate.com/piddnad/ddcolor) | Towards Photo-Realistic Image Colorization via Dual Decoders | 1190 |
-| [black-forest-labs/flux-depth-dev](https://replicate.com/black-forest-labs/flux-depth-dev) | Open-weight depth-aware image generation. Edit images while preserving spatial relationships. | 1164 |
-| [microsoft/omniparser-v2](https://replicate.com/microsoft/omniparser-v2) | OmniParser is a screen parsing tool to convert general GUI screen to structured elements. | 1151 |
-| [prunaai/firered-image-edit](https://replicate.com/prunaai/firered-image-edit) | FireRed-Image-Edit is a general-purpose image editing model that delivers high-fidelity and consistent editing across a wide range of scenarios. | 1150 |
-| [ditto--ai/qwen3guard-gen-4b](https://replicate.com/ditto--ai/qwen3guard-gen-4b) | A 4B-parameter safety and content moderation model that classifies user prompts and assistant responses as Safe, Unsafe, or Controversial with fine-grained category labels and refusal detection. Supports 119 languages. | 1126 |
-| [kwaivgi/kling-v1.6-standard](https://replicate.com/kwaivgi/kling-v1.6-standard) | Generate 5s and 10s videos in 720p resolution at 30fps | 1123 |
-| [meta/musicgen](https://replicate.com/meta/musicgen) | Generate music from a prompt or melody | 1110 |
-| [minimax/hailuo-02](https://replicate.com/minimax/hailuo-02) | Hailuo 2 is a text-to-video and image-to-video model that can make 6s or 10s videos at 768p (standard) or 1080p (pro). It excels at real world physics. | 1104 |
-| [aisha-ai-official/wai-nsfw-illustrious-v11](https://replicate.com/aisha-ai-official/wai-nsfw-illustrious-v11) | null | 1075 |
-| [lucataco/flux-schnell-lora](https://replicate.com/lucataco/flux-schnell-lora) | FLUX.1-Schnell LoRA Explorer | 1058 |
-| [wan-video/wan-2.7-image](https://replicate.com/wan-video/wan-2.7-image) | Generate and edit images with Alibaba's Wan 2.7 | 1053 |
-| [datong-new/sam-point](https://replicate.com/datong-new/sam-point) | null | 1050 |
-| [google/imagen-3](https://replicate.com/google/imagen-3) | Google's highest quality text-to-image model, capable of generating images with detail, rich lighting and beauty | 1048 |
-| [zf-kbot/inpaint-and-guess-prompt](https://replicate.com/zf-kbot/inpaint-and-guess-prompt) | Use a mask to inpaint the image or generate a prompt based on the mask. | 1034 |
-| [codeslake/ifan-defocus-deblur](https://replicate.com/codeslake/ifan-defocus-deblur) | Removes defocus blur in an image | 1011 |
-| [moonshotai/kimi-k2.5](https://replicate.com/moonshotai/kimi-k2.5) | Moonshot AI's latest open model. It unifies vision and text, thinking and non-thinking modes, and single-agent and multi-agent execution into one model | 1004 |
-| [black-forest-labs/flux-pro](https://replicate.com/black-forest-labs/flux-pro) | State-of-the-art image generation with top of the line prompt following, visual quality, image detail and output diversity. | 994 |
-| [devgmstudios/pony-realism-v23](https://replicate.com/devgmstudios/pony-realism-v23) | Latest Pony Realism Model. Try it with WEIGHTS on creatorframes.com | 989 |
-| [zsxkib/jina-clip-v2](https://replicate.com/zsxkib/jina-clip-v2) | Jina-CLIP v2: 0.9B multimodal embedding model with 89-language multilingual support, 512x512 image resolution, and Matryoshka representations | 977 |
-| [xrunda/hello](https://replicate.com/xrunda/hello) | Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training. | 973 |
-| [zsxkib/seedvr2](https://replicate.com/zsxkib/seedvr2) | 🔥 SeedVR2: one-step video & image restoration with 3B/7B hot‑swap and optional color fix 🎬✨ | 956 |
-| [stability-ai/stable-diffusion](https://replicate.com/stability-ai/stable-diffusion) | A latent text-to-image diffusion model capable of generating photo-realistic images given any text input | 945 |
-| [resemble-ai/chatterbox](https://replicate.com/resemble-ai/chatterbox) | Generate expressive, natural speech. Features unique emotion control, instant voice cloning from short audio, and built-in watermarking. | 943 |
-| [prunaai/z-image-turbo-img2img](https://replicate.com/prunaai/z-image-turbo-img2img) | Image 2 Image version of z-image-turbo with lora support. | 926 |
-| [smoosh-sh/baby-mystic](https://replicate.com/smoosh-sh/baby-mystic) | Implementation of Realistic Vision v5.1 to conjure up images of the potential baby using a single photo from each parent | 926 |
-| [meghabyte/arrival-logograms](https://replicate.com/meghabyte/arrival-logograms) | Generates logograms in the style of the alien language from the 2016 sci-fi film "Arrival". | 905 |
-| [soykertje/spleeter](https://replicate.com/soykertje/spleeter) | Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. | 900 |
-| [lucataco/trim-video](https://replicate.com/lucataco/trim-video) | Simple tool to quickly trim a video or audio file | 883 |
-| [anthropic/claude-opus-4.6](https://replicate.com/anthropic/claude-opus-4.6) | Anthropic's most intelligent model with state-of-the-art coding, reasoning, and agentic capabilities | 871 |
-| [google-deepmind/gemma-3-12b-it](https://replicate.com/google-deepmind/gemma-3-12b-it) | Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models. | 867 |
-| [openai/gpt-5.4](https://replicate.com/openai/gpt-5.4) | OpenAI's most capable frontier model for complex professional work, coding, and multi-step reasoning. | 849 |
-| [philz1337x/clarity-pro-upscaler](https://replicate.com/philz1337x/clarity-pro-upscaler) | The first creative upscaler which keeps identity. Stunning photorealistic results, realistic skin, and full creative control. | 848 |
-| [geopti/sam-audio-large](https://replicate.com/geopti/sam-audio-large) | SAM-Audio is a foundation model for isolating any sound in audio using text | 844 |
-| [awerks/whisperx](https://replicate.com/awerks/whisperx) | Fast automatic speech recognition (70x realtime with large-v2) with word-level timestamps and speaker diarization. | 836 |
-| [lucataco/wan-2.2-first-last-frame](https://replicate.com/lucataco/wan-2.2-first-last-frame) | Wan 2.2 First and Last Frame using 8-step inference w/ Lightning LoRA | 816 |
-| [replicate/train-rvc-model](https://replicate.com/replicate/train-rvc-model) | Train your own custom RVC model | 815 |
-| [microsoft/bringing-old-photos-back-to-life](https://replicate.com/microsoft/bringing-old-photos-back-to-life) | Bringing Old Photos Back to Life | 812 |
-| [ibm-granite/granite-3.3-8b-instruct](https://replicate.com/ibm-granite/granite-3.3-8b-instruct) | Granite-3.3-8B-Instruct is a 8-billion parameter 128K context length language model fine-tuned for improved reasoning and instruction-following capabilities. | 810 |
-| [bria/expand-image](https://replicate.com/bria/expand-image) | Bria Expand expands images beyond their borders in high quality. Resizing the image by generating new pixels to expand to the desired aspect ratio. Trained exclusively on licensed data for safe and risk-free commercial use | 807 |
-| [minimax/speech-2.8-hd](https://replicate.com/minimax/speech-2.8-hd) | Minimax Speech 2.8 HD focuses on high-fidelity audio generation with features like studio-grade quality, flexible emotion control, multilingual support, and voice cloning capabilities | 786 |
-| [black-forest-labs/flux-2-klein-4b-base](https://replicate.com/black-forest-labs/flux-2-klein-4b-base) | Un-distilled version of FLUX.2 [klein]. Optimized for fine-tuning, customization, and post-training workflows | 772 |
-| [prunaai/wan-2.2-image](https://replicate.com/prunaai/wan-2.2-image) | This model generates beautiful cinematic 2 megapixel images in 3-4 seconds and is derived from the Wan 2.2 model through optimisation techniques from the pruna package | 763 |
-| [lucataco/nomic-embed-text-v1](https://replicate.com/lucataco/nomic-embed-text-v1) | nomic-embed-text-v1 is 8192 context length text encoder that surpasses OpenAI text-embedding-ada-002 and text-embedding-3-small performance on short and long context tasks | 763 |
-| [ddvinh1/inswapper](https://replicate.com/ddvinh1/inswapper) | null | 744 |
-| [runwayml/gen4-aleph](https://replicate.com/runwayml/gen4-aleph) | A new way to edit, transform and generate video | 735 |
+| [arielreplicate/robust_video_matting](https://replicate.com/arielreplicate/robust_video_matting) | extract foreground of a video | 1237 |
+| [lilekitty/kaneko-gen](https://replicate.com/lilekitty/kaneko-gen) | Generates unrestricted images from text prompts using a fine-tuned Stable Diffusion model | 1188 |
+| [prunaai/p-image-lora](https://replicate.com/prunaai/p-image-lora) | Use trained LoRAs from the https://replicate.com/prunaai/p-image-trainer. Find or contribute LoRAs here https://huggingface.co/collections/PrunaAI/p-image-loras | 1177 |
+| [chenxwh/depth-anything-v2](https://replicate.com/chenxwh/depth-anything-v2) | Depth estimation with faster inference speed, fewer parameters, and higher depth accuracy. | 1175 |
+| [black-forest-labs/flux-kontext-dev-lora](https://replicate.com/black-forest-labs/flux-kontext-dev-lora) | FLUX.1 Kontext[dev] image editing model for running lora finetunes | 1102 |
+| [meta/musicgen](https://replicate.com/meta/musicgen) | Generate music from a prompt or melody | 1093 |
+| [sdxl-based/realvisxl-v3-multi-controlnet-lora](https://replicate.com/sdxl-based/realvisxl-v3-multi-controlnet-lora) | RealVisXl V3 with multi-controlnet, lora loading, img2img, inpainting | 1082 |
+| [firtoz/trellis](https://replicate.com/firtoz/trellis) | A powerful 3D asset generation model | 1069 |
+| [ddvinh1/inswapper](https://replicate.com/ddvinh1/inswapper) | null | 1064 |
+| [datong-new/sam-point](https://replicate.com/datong-new/sam-point) | null | 1062 |
+| [wan-video/wan-2.7-image](https://replicate.com/wan-video/wan-2.7-image) | Generate and edit images with Alibaba's Wan 2.7 | 1059 |
+| [openai/gpt-image-1-mini](https://replicate.com/openai/gpt-image-1-mini) | A cost-efficient version of GPT Image 1 | 1054 |
+| [minimax/hailuo-02](https://replicate.com/minimax/hailuo-02) | Hailuo 2 is a text-to-video and image-to-video model that can make 6s or 10s videos at 768p (standard) or 1080p (pro). It excels at real world physics. | 1041 |
+| [tencentarc/vqfr](https://replicate.com/tencentarc/vqfr) | Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder | 1028 |
+| [lightricks/ltx-2.3-pro](https://replicate.com/lightricks/ltx-2.3-pro) | High-fidelity video generation with portrait support, audio-to-video, retake, and extend. Text, image, and audio-driven creation up to 4K at 50 FPS. | 1013 |
+| [google/imagen-3](https://replicate.com/google/imagen-3) | Google's highest quality text-to-image model, capable of generating images with detail, rich lighting and beauty | 1006 |
+| [awerks/whisperx](https://replicate.com/awerks/whisperx) | Fast automatic speech recognition (70x realtime with large-v2) with word-level timestamps and speaker diarization. | 997 |
+| [codeslake/ifan-defocus-deblur](https://replicate.com/codeslake/ifan-defocus-deblur) | Removes defocus blur in an image | 991 |
+| [smoosh-sh/baby-mystic](https://replicate.com/smoosh-sh/baby-mystic) | Implementation of Realistic Vision v5.1 to conjure up images of the potential baby using a single photo from each parent | 977 |
+| [devgmstudios/pony-realism-v23](https://replicate.com/devgmstudios/pony-realism-v23) | Latest Pony Realism Model. Try it with WEIGHTS on creatorframes.com | 970 |
+| [google/veo-3.1](https://replicate.com/google/veo-3.1) | New and improved version of Veo 3, with higher-fidelity video, context-aware audio, reference image and last frame support | 961 |
+| [kwaivgi/kling-v1.6-standard](https://replicate.com/kwaivgi/kling-v1.6-standard) | Generate 5s and 10s videos in 720p resolution at 30fps | 924 |
+| [black-forest-labs/flux-depth-dev](https://replicate.com/black-forest-labs/flux-depth-dev) | Open-weight depth-aware image generation. Edit images while preserving spatial relationships. | 924 |
+| [wan-video/wan-2.7-i2v](https://replicate.com/wan-video/wan-2.7-i2v) | Generate videos from images, with support for first-and-last-frame control, clip continuation, and audio synchronization using Alibaba's Wan 2.7 model | 920 |
+| [moonshotai/kimi-k2.5](https://replicate.com/moonshotai/kimi-k2.5) | Moonshot AI's latest open model. It unifies vision and text, thinking and non-thinking modes, and single-agent and multi-agent execution into one model | 897 |
+| [openai/gpt-5.4](https://replicate.com/openai/gpt-5.4) | OpenAI's most capable frontier model for complex professional work, coding, and multi-step reasoning. | 895 |
+| [elevenlabs/v3](https://replicate.com/elevenlabs/v3) | The most expressive Text to Speech model | 894 |
+| [google/imagen-4-ultra](https://replicate.com/google/imagen-4-ultra) | Use this ultra version of Imagen 4 when quality matters more than speed and cost | 885 |
+| [minimax/speech-2.8-hd](https://replicate.com/minimax/speech-2.8-hd) | Minimax Speech 2.8 HD focuses on high-fidelity audio generation with features like studio-grade quality, flexible emotion control, multilingual support, and voice cloning capabilities | 877 |
+| [zsxkib/flux-dev-inpainting](https://replicate.com/zsxkib/flux-dev-inpainting) | 🎨 Fill in masked parts of images with FLUX.1-dev 🖌️ | 841 |
+| [zsxkib/seedvr2](https://replicate.com/zsxkib/seedvr2) | 🔥 SeedVR2: one-step video & image restoration with 3B/7B hot‑swap and optional color fix 🎬✨ | 831 |
+| [prunaai/z-image-turbo-img2img](https://replicate.com/prunaai/z-image-turbo-img2img) | Image 2 Image version of z-image-turbo with lora support. | 821 |
+| [lucataco/flux-schnell-lora](https://replicate.com/lucataco/flux-schnell-lora) | FLUX.1-Schnell LoRA Explorer | 817 |
+| [stability-ai/stable-diffusion-3.5-large-turbo](https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo) | A text-to-image model that generates high-resolution images with fine details. It supports various artistic styles and produces diverse outputs from the same prompt, with a focus on fewer inference steps | 808 |
+| [ibm-granite/granite-vision-4.1-4b](https://replicate.com/ibm-granite/granite-vision-4.1-4b) | Granite Vision 4.1 4B is a vision-language model (VLM) that delivers frontier-level performance on structured document extraction tasks — chart extraction, table extraction, and semantic key-value pair extraction — in a compact 4B parameter footprint | 803 |
+| [aisha-ai-official/pony-realism-v2.2](https://replicate.com/aisha-ai-official/pony-realism-v2.2) | null | 793 |
+| [ideogram-ai/ideogram-v3-quality](https://replicate.com/ideogram-ai/ideogram-v3-quality) | The highest quality Ideogram v3 model. v3 creates images with stunning realism, creative designs, and consistent styles | 789 |
+| [lucataco/wan-2.2-first-last-frame](https://replicate.com/lucataco/wan-2.2-first-last-frame) | Wan 2.2 First and Last Frame using 8-step inference w/ Lightning LoRA | 789 |
+| [replicate/train-rvc-model](https://replicate.com/replicate/train-rvc-model) | Train your own custom RVC model | 784 |
+| [sdxl-based/consistent-character](https://replicate.com/sdxl-based/consistent-character) | Create images of a given character in different poses | 780 |
+| [dashed/whisperx-subtitles-replicate](https://replicate.com/dashed/whisperx-subtitles-replicate) | Generates subtitles from audio using whisperX (faster-whisper-large-v3) | 776 |
+| [xrunda/hello](https://replicate.com/xrunda/hello) | Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training. | 766 |
+| [fofr/toolkit](https://replicate.com/fofr/toolkit) | Video toolkit – convert, make GIFs, extract audio | 754 |
+| [ideogram-ai/ideogram-v2-turbo](https://replicate.com/ideogram-ai/ideogram-v2-turbo) | A fast image model with state of the art inpainting, prompt comprehension and text rendering. | 751 |
+| [topazlabs/video-upscale](https://replicate.com/topazlabs/video-upscale) | Video Upscaling from Topaz Labs | 744 |
+| [lucataco/trim-video](https://replicate.com/lucataco/trim-video) | Simple tool to quickly trim a video or audio file | 736 |
 | [simbrams/ri](https://replicate.com/simbrams/ri) | Realistic Inpainting with ControlNET (M-LSD + SEG) | 735 |
-| [aisha-ai-official/pony-realism-v2.2](https://replicate.com/aisha-ai-official/pony-realism-v2.2) | null | 725 |
-| [xai/grok-imagine-r2v](https://replicate.com/xai/grok-imagine-r2v) | Generate videos guided by reference images using xAI's Grok Imagine Video model | 724 |
-| [fofr/toolkit](https://replicate.com/fofr/toolkit) | Video toolkit – convert, make GIFs, extract audio | 721 |
-| [ideogram-ai/ideogram-v3-balanced](https://replicate.com/ideogram-ai/ideogram-v3-balanced) | Balance speed, quality and cost. Ideogram v3 creates images with stunning realism, creative designs, and consistent styles | 709 |
-| [ostris/flux-dev-lora-trainer](https://replicate.com/ostris/flux-dev-lora-trainer) | Fine-tune FLUX.1-dev using ai-toolkit | 707 |
-| [sdxl-based/consistent-character](https://replicate.com/sdxl-based/consistent-character) | Create images of a given character in different poses | 701 |
-| [google/veo-3.1-lite](https://replicate.com/google/veo-3.1-lite) | Google's cost-efficient video generation model with native audio, optimized for high-volume applications | 700 |
-| [lightricks/ltx-2.3-pro](https://replicate.com/lightricks/ltx-2.3-pro) | High-fidelity video generation with portrait support, audio-to-video, retake, and extend. Text, image, and audio-driven creation up to 4K at 50 FPS. | 698 |
-| [datalab-to/ocr](https://replicate.com/datalab-to/ocr) | Detect and transcribe text in images with accurate bounding boxes, layout analysis, reding order, and table recognition, in 90 languages | 697 |
-| [wan-video/wan-2.7-i2v](https://replicate.com/wan-video/wan-2.7-i2v) | Generate videos from images, with support for first-and-last-frame control, clip continuation, and audio synchronization using Alibaba's Wan 2.7 model | 683 |
-| [stability-ai/stable-diffusion-3.5-large-turbo](https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo) | A text-to-image model that generates high-resolution images with fine details. It supports various artistic styles and produces diverse outputs from the same prompt, with a focus on fewer inference steps | 676 |
-| [asiryan/realism-xl](https://replicate.com/asiryan/realism-xl) | Realism XL Model (Text2Img, Img2Img and Inpainting) | 664 |
-| [ibm-granite/granite-4.1-8b](https://replicate.com/ibm-granite/granite-4.1-8b) | Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 661 |
-| [elevenlabs/music](https://replicate.com/elevenlabs/music) | Compose a song from a prompt or a composition plan | 660 |
-| [dashed/whisperx-subtitles-replicate](https://replicate.com/dashed/whisperx-subtitles-replicate) | Generates subtitles from audio using whisperX (faster-whisper-large-v3) | 649 |
-| [zsxkib/instant-id](https://replicate.com/zsxkib/instant-id) | Make realistic images of real people instantly | 648 |
-| [ideogram-ai/ideogram-v3-quality](https://replicate.com/ideogram-ai/ideogram-v3-quality) | The highest quality Ideogram v3 model. v3 creates images with stunning realism, creative designs, and consistent styles | 642 |
-| [ayushunleashed/screenshot-kit](https://replicate.com/ayushunleashed/screenshot-kit) | Take screenshot or screen recording of any website | 641 |
-| [cureau/force-align-wordstamps](https://replicate.com/cureau/force-align-wordstamps) | Takes audio (mp3) and a "source-of-truth" audio transcript (string) as input and returns precise timestamps. | 634 |
-| [ibm-granite/granite-4.0-h-small](https://replicate.com/ibm-granite/granite-4.0-h-small) | Granite-4.0-H-Small is a 32B parameter long-context instruct model finetuned from Granite-4.0-H-Small-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 628 |
-| [chenxwh/depth-anything-v2](https://replicate.com/chenxwh/depth-anything-v2) | Depth estimation with faster inference speed, fewer parameters, and higher depth accuracy. | 624 |
-| [openai/sora-2](https://replicate.com/openai/sora-2) | OpenAI's Flagship video generation with synced audio | 606 |
-| [prunaai/flux-schnell](https://replicate.com/prunaai/flux-schnell) | This is a 3x faster FLUX.1 [schnell] model from Black Forest Labs, optimised with pruna with minimal quality loss. Contact us for more at pruna.ai | 597 |
-| [deepseek-ai/deepseek-v3.1](https://replicate.com/deepseek-ai/deepseek-v3.1) | Latest hybrid thinking model from Deepseek | 590 |
-| [openai/gpt-image-1-mini](https://replicate.com/openai/gpt-image-1-mini) | A cost-efficient version of GPT Image 1 | 590 |
-| [meta/llama-2-7b-chat](https://replicate.com/meta/llama-2-7b-chat) | A 7 billion parameter language model from Meta, fine tuned for chat completions | 578 |
-| [lucataco/qwen3-embedding-8b](https://replicate.com/lucataco/qwen3-embedding-8b) | The Qwen3 Embedding model series is specifically designed for text embedding and ranking tasks | 576 |
-| [ardianfe/music-gen-fn-200e](https://replicate.com/ardianfe/music-gen-fn-200e) | Create music for your content | 550 |
-| [qwen/qwen-image-2-pro](https://replicate.com/qwen/qwen-image-2-pro) | The pro version of Qwen Image 2 from Alibaba's Qwen team. Enhanced text rendering, realism, and semantic adherence for high-quality image generation and editing. | 547 |
-| [lucataco/flux-dev-lora](https://replicate.com/lucataco/flux-dev-lora) | FLUX.1-Dev LoRA Explorer (DEPRECATED Please use: black-forest-labs/flux-dev-lora) | 536 |
-| [smoretalk/rembg-enhance](https://replicate.com/smoretalk/rembg-enhance) | A background removal model enhanced with better matting | 532 |
-| [idan054/better-video-merge](https://replicate.com/idan054/better-video-merge) | Fix Diffrent Sizes for each clip. Fork of lucataco/cog-video-merge.git | 522 |
-| [black-forest-labs/flux-kontext-dev-lora](https://replicate.com/black-forest-labs/flux-kontext-dev-lora) | FLUX.1 Kontext[dev] image editing model for running lora finetunes | 520 |
-| [wan-video/wan-2.2-t2v-fast](https://replicate.com/wan-video/wan-2.2-t2v-fast) | A very fast and cheap PrunaAI optimized version of Wan 2.2 A14B text-to-video | 517 |
-| [elevenlabs/flash-v2.5](https://replicate.com/elevenlabs/flash-v2.5) | ElevenLabs's fastest speech synthesis model | 513 |
-| [pnyompen/sdxl-controlnet-lora-small](https://replicate.com/pnyompen/sdxl-controlnet-lora-small) | SDXL Canny controlnet with LoRA support. | 511 |
-| [ideogram-ai/ideogram-v2a](https://replicate.com/ideogram-ai/ideogram-v2a) | Like Ideogram v2, but faster and cheaper | 495 |
-| [flux-kontext-apps/text-removal](https://replicate.com/flux-kontext-apps/text-removal) | Remove all text from an image with FLUX.1 Kontext | 494 |
-| [black-forest-labs/flux-krea-dev](https://replicate.com/black-forest-labs/flux-krea-dev) | An opinionated text-to-image model from Black Forest Labs in collaboration with Krea that excels in photorealism. Creates images that avoid the oversaturated "AI look". | 486 |
-| [stability-ai/stable-diffusion-inpainting](https://replicate.com/stability-ai/stable-diffusion-inpainting) | Fill in masked parts of images with Stable Diffusion | 486 |
-| [ideogram-ai/ideogram-v2-turbo](https://replicate.com/ideogram-ai/ideogram-v2-turbo) | A fast image model with state of the art inpainting, prompt comprehension and text rendering. | 484 |
-| [openai/gpt-4.1](https://replicate.com/openai/gpt-4.1) | OpenAI's Flagship GPT model for complex tasks. | 474 |
-| [vufinder/vggt-1b](https://replicate.com/vufinder/vggt-1b) | Feed-forward neural network that directly infers all key 3D attributes of a scene. | 466 |
-| [minimax/video-01](https://replicate.com/minimax/video-01) | Generate 6s videos with prompts or images. (Also known as Hailuo). Use a subject reference to make a video with a character and the S2V-01 model. | 461 |
-| [sepal/audiogen](https://replicate.com/sepal/audiogen) | Generate sounds from a text prompt | 455 |
-| [elevenlabs/turbo-v2.5](https://replicate.com/elevenlabs/turbo-v2.5) | High quality, low latency text to speech in 32 languages | 448 |
-| [ibm-granite/granite-3.1-8b-instruct](https://replicate.com/ibm-granite/granite-3.1-8b-instruct) | Granite-3.1-8B-Instruct is a lightweight and open-source 8B parameter model is designed to excel in instruction following tasks such as summarization, problem-solving, text translation, reasoning, code tasks, function-calling, and more. | 445 |
-| [runwayml/gen4-turbo](https://replicate.com/runwayml/gen4-turbo) | Generate 5s and 10s 720p videos fast | 442 |
+| [soykertje/spleeter](https://replicate.com/soykertje/spleeter) | Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. | 732 |
+| [google/veo-3.1-lite](https://replicate.com/google/veo-3.1-lite) | Google's cost-efficient video generation model with native audio, optimized for high-volume applications | 712 |
+| [datalab-to/marker](https://replicate.com/datalab-to/marker) | Convert PDF to markdown + JSON quickly with high accuracy | 709 |
+| [prunaai/wan-2.2-image](https://replicate.com/prunaai/wan-2.2-image) | This model generates beautiful cinematic 2 megapixel images in 3-4 seconds and is derived from the Wan 2.2 model through optimisation techniques from the pruna package | 709 |
+| [geopti/sam-audio-large](https://replicate.com/geopti/sam-audio-large) | SAM-Audio is a foundation model for isolating any sound in audio using text | 687 |
+| [runwayml/gen4-aleph](https://replicate.com/runwayml/gen4-aleph) | A new way to edit, transform and generate video | 680 |
+| [elevenlabs/flash-v2.5](https://replicate.com/elevenlabs/flash-v2.5) | ElevenLabs's fastest speech synthesis model | 676 |
+| [lucataco/nomic-embed-text-v1](https://replicate.com/lucataco/nomic-embed-text-v1) | nomic-embed-text-v1 is 8192 context length text encoder that surpasses OpenAI text-embedding-ada-002 and text-embedding-3-small performance on short and long context tasks | 665 |
+| [datalab-to/ocr](https://replicate.com/datalab-to/ocr) | Detect and transcribe text in images with accurate bounding boxes, layout analysis, reding order, and table recognition, in 90 languages | 659 |
+| [lucataco/flux-dev-lora](https://replicate.com/lucataco/flux-dev-lora) | FLUX.1-Dev LoRA Explorer (DEPRECATED Please use: black-forest-labs/flux-dev-lora) | 654 |
+| [prunaai/flux-schnell](https://replicate.com/prunaai/flux-schnell) | This is a 3x faster FLUX.1 [schnell] model from Black Forest Labs, optimised with pruna with minimal quality loss. Contact us for more at pruna.ai | 648 |
+| [qwen/qwen-image-2](https://replicate.com/qwen/qwen-image-2) | A next-generation image generation and editing model from Alibaba's Qwen team. Supports text-to-image and image editing with strong text rendering, especially for Chinese. | 647 |
+| [meta/llama-2-7b-chat](https://replicate.com/meta/llama-2-7b-chat) | A 7 billion parameter language model from Meta, fine tuned for chat completions | 629 |
+| [idea-research/ram-grounded-sam](https://replicate.com/idea-research/ram-grounded-sam) | A Strong Image Tagging Model with Segment Anything | 619 |
+| [ardianfe/music-gen-fn-200e](https://replicate.com/ardianfe/music-gen-fn-200e) | Create music for your content | 617 |
+| [fofr/style-transfer](https://replicate.com/fofr/style-transfer) | Transfer the style of one image to another | 616 |
+| [elevenlabs/music](https://replicate.com/elevenlabs/music) | Compose a song from a prompt or a composition plan | 615 |
+| [stability-ai/stable-diffusion-3.5-large](https://replicate.com/stability-ai/stable-diffusion-3.5-large) | A text-to-image model that generates high-resolution images with fine details. It supports various artistic styles and produces diverse outputs from the same prompt, thanks to Query-Key Normalization. | 611 |
+| [sepal/audiogen](https://replicate.com/sepal/audiogen) | Generate sounds from a text prompt | 605 |
+| [myaiteam2/website-scrapper](https://replicate.com/myaiteam2/website-scrapper) | Just some good ole beautifulsoup scrapping URL magic. (some sites don't work as they block scrapping, but still useful) | 604 |
+| [ibm-granite/granite-4.1-8b](https://replicate.com/ibm-granite/granite-4.1-8b) | Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 600 |
+| [cureau/force-align-wordstamps](https://replicate.com/cureau/force-align-wordstamps) | Takes audio (mp3) and a "source-of-truth" audio transcript (string) as input and returns precise timestamps. | 593 |
+| [wan-video/wan-2.2-t2v-fast](https://replicate.com/wan-video/wan-2.2-t2v-fast) | A very fast and cheap PrunaAI optimized version of Wan 2.2 A14B text-to-video | 585 |
+| [datacte/flux-aesthetic-anime](https://replicate.com/datacte/flux-aesthetic-anime) | Flux lora, trained on the unique style and aesthetic of ghibli retro anime | 579 |
+| [ayushunleashed/screenshot-kit](https://replicate.com/ayushunleashed/screenshot-kit) | Take screenshot or screen recording of any website | 572 |
+| [ditto--ai/qwen3guard-gen-4b](https://replicate.com/ditto--ai/qwen3guard-gen-4b) | A 4B-parameter safety and content moderation model that classifies user prompts and assistant responses as Safe, Unsafe, or Controversial with fine-grained category labels and refusal detection. Supports 119 languages. | 558 |
+| [black-forest-labs/flux-krea-dev](https://replicate.com/black-forest-labs/flux-krea-dev) | An opinionated text-to-image model from Black Forest Labs in collaboration with Krea that excels in photorealism. Creates images that avoid the oversaturated "AI look". | 546 |
+| [stability-ai/stable-diffusion](https://replicate.com/stability-ai/stable-diffusion) | A latent text-to-image diffusion model capable of generating photo-realistic images given any text input | 546 |
+| [stability-ai/stable-diffusion-inpainting](https://replicate.com/stability-ai/stable-diffusion-inpainting) | Fill in masked parts of images with Stable Diffusion | 526 |
+| [black-forest-labs/flux-2-klein-4b-base](https://replicate.com/black-forest-labs/flux-2-klein-4b-base) | Un-distilled version of FLUX.2 [klein]. Optimized for fine-tuning, customization, and post-training workflows | 525 |
+| [openai/sora-2](https://replicate.com/openai/sora-2) | OpenAI's Flagship video generation with synced audio | 523 |
+| [ostris/flux-dev-lora-trainer](https://replicate.com/ostris/flux-dev-lora-trainer) | Fine-tune FLUX.1-dev using ai-toolkit | 523 |
+| [idan054/better-video-merge](https://replicate.com/idan054/better-video-merge) | Fix Diffrent Sizes for each clip. Fork of lucataco/cog-video-merge.git | 520 |
+| [pnyompen/sdxl-controlnet-lora-small](https://replicate.com/pnyompen/sdxl-controlnet-lora-small) | SDXL Canny controlnet with LoRA support. | 518 |
+| [smoretalk/rembg-enhance](https://replicate.com/smoretalk/rembg-enhance) | A background removal model enhanced with better matting | 511 |
+| [deepseek-ai/deepseek-v3.1](https://replicate.com/deepseek-ai/deepseek-v3.1) | Latest hybrid thinking model from Deepseek | 498 |
+| [aisha-ai-official/wai-nsfw-illustrious-v12](https://replicate.com/aisha-ai-official/wai-nsfw-illustrious-v12) | null | 494 |
+| [ideogram-ai/ideogram-v3-balanced](https://replicate.com/ideogram-ai/ideogram-v3-balanced) | Balance speed, quality and cost. Ideogram v3 creates images with stunning realism, creative designs, and consistent styles | 493 |
+| [lucataco/flux-dev-multi-lora](https://replicate.com/lucataco/flux-dev-multi-lora) | FLUX.1-Dev Multi LoRA Explorer | 487 |
+| [vufinder/vggt-1b](https://replicate.com/vufinder/vggt-1b) | Feed-forward neural network that directly infers all key 3D attributes of a scene. | 470 |
+| [runwayml/gen4-turbo](https://replicate.com/runwayml/gen4-turbo) | Generate 5s and 10s 720p videos fast | 465 |
+| [fpsorg/emoji](https://replicate.com/fpsorg/emoji) | Make Emoji with AI. | 463 |
+| [zsxkib/instant-id](https://replicate.com/zsxkib/instant-id) | Make realistic images of real people instantly | 459 |
+| [minimax/video-01](https://replicate.com/minimax/video-01) | Generate 6s videos with prompts or images. (Also known as Hailuo). Use a subject reference to make a video with a character and the S2V-01 model. | 452 |
+| [ideogram-ai/ideogram-v2a](https://replicate.com/ideogram-ai/ideogram-v2a) | Like Ideogram v2, but faster and cheaper | 446 |
 | [shreejalmaharjan-27/website-screenshot](https://replicate.com/shreejalmaharjan-27/website-screenshot) | Capture a website screenshot | 442 |
-| [fofr/style-transfer](https://replicate.com/fofr/style-transfer) | Transfer the style of one image to another | 436 |
-| [recraft-ai/recraft-v3-svg](https://replicate.com/recraft-ai/recraft-v3-svg) | Recraft V3 SVG (code-named red_panda) is a text-to-image model with the ability to generate high quality SVG images including logotypes, and icons. The model supports a wide list of styles. | 408 |
-| [wglodell/cog-whisperx-withprompt](https://replicate.com/wglodell/cog-whisperx-withprompt) | WhisperX transcription with inital_prompt | 408 |
-| [zf-kbot/sd-inpaint](https://replicate.com/zf-kbot/sd-inpaint) | Fill in masked parts of images with Stable Diffusion | 404 |
-| [pollinations/modnet](https://replicate.com/pollinations/modnet) | A deep learning approach to remove background & adding new background image | 399 |
-| [stability-ai/stable-audio-2.5](https://replicate.com/stability-ai/stable-audio-2.5) | Generate high-quality music and sound from text prompts | 396 |
-| [tencent/hunyuan-3d-3.1](https://replicate.com/tencent/hunyuan-3d-3.1) | 3D models with texture fidelity and geometry precision | 394 |
-| [ibm-granite/granite-vision-4.1-4b](https://replicate.com/ibm-granite/granite-vision-4.1-4b) | Granite Vision 4.1 4B is a vision-language model (VLM) that delivers frontier-level performance on structured document extraction tasks — chart extraction, table extraction, and semantic key-value pair extraction — in a compact 4B parameter footprint | 392 |
-| [usamaehsan/qwen-image-edit-fastest-2](https://replicate.com/usamaehsan/qwen-image-edit-fastest-2) | 400+ images in 1$ 1024 resolution// 2s /img on L40S GPU, check description and examples | 392 |
-| [codeplugtech/background_remover](https://replicate.com/codeplugtech/background_remover) | Remove background from image | 389 |
-| [recraft-ai/recraft-v4-svg](https://replicate.com/recraft-ai/recraft-v4-svg) | Generate production-ready SVG vector images from text prompts. Recraft V4's design taste applied to vector output — clean geometry, structured layers, and editable paths. | 386 |
-| [google/imagen-3-fast](https://replicate.com/google/imagen-3-fast) | A faster and cheaper Imagen 3 model, for when price or speed are more important than final image quality | 379 |
-| [appmeloncreator/platmoji-beta](https://replicate.com/appmeloncreator/platmoji-beta) | This is an emoji generator fine tuned with Flux. (btw thx so much for the support on this) | 379 |
-| [wan-video/wan-2.2-s2v](https://replicate.com/wan-video/wan-2.2-s2v) | Generate a video from an audio clip and a reference image | 378 |
-| [fpsorg/emoji](https://replicate.com/fpsorg/emoji) | Make Emoji with AI. | 362 |
-| [colinmcdonnell22/ghiblify-3](https://replicate.com/colinmcdonnell22/ghiblify-3) | null | 361 |
-| [veed/fabric-1.0](https://replicate.com/veed/fabric-1.0) | VEED Fabric 1.0 is an image-to-video API that turns any image into a talking video | 356 |
-| [alibaba/happyhorse-1.0](https://replicate.com/alibaba/happyhorse-1.0) | Alibaba's Happy Horse 1.0 generates videos from text prompts or animates a single image into video. Supports 720p and 1080p, 3-15 second durations, and five aspect ratios. | 355 |
-| [deepseek-ai/deepseek-r1](https://replicate.com/deepseek-ai/deepseek-r1) | A reasoning model trained with reinforcement learning, on par with OpenAI o1 | 353 |
-| [abiruyt/text-extract-ocr](https://replicate.com/abiruyt/text-extract-ocr) | A simple OCR Model that can easily extract text from an image. | 353 |
-| [skullycute/prefectillustriousxlv60](https://replicate.com/skullycute/prefectillustriousxlv60) | Anime Illust model | 352 |
-| [aisha-ai-official/wai-nsfw-illustrious-v12](https://replicate.com/aisha-ai-official/wai-nsfw-illustrious-v12) | null | 341 |
-| [lucataco/sam3-video](https://replicate.com/lucataco/sam3-video) | A unified foundation model for prompt-based segmentation in images and videos | 335 |
-| [perceptron-ai-inc/isaac-0.1](https://replicate.com/perceptron-ai-inc/isaac-0.1) | an open-source, 2B-parameter model built for real-world applications | 334 |
-| [lucataco/ace-step](https://replicate.com/lucataco/ace-step) | A Step Towards Music Generation Foundation Model text2music | 334 |
-| [aaronaftab/mirage-ghibli](https://replicate.com/aaronaftab/mirage-ghibli) | Ghiblify any image, 10x cheaper/faster than GPT 4o | 331 |
-| [jd7h/propainter](https://replicate.com/jd7h/propainter) | Object removal, video completion and video outpainting | 331 |
-| [delta-lock/noobai-xl](https://replicate.com/delta-lock/noobai-xl) | Models fine-tuned from NoobAI-XL/Illustrious-XL series. | 326 |
-| [sakemin/all-in-one-music-structure-analyzer](https://replicate.com/sakemin/all-in-one-music-structure-analyzer) | Cog implementation of mir-aidj(Taejun Kim)'s 'All-In-One Music Structure Analyzer' | 326 |
-| [zylim0702/qr_code_controlnet](https://replicate.com/zylim0702/qr_code_controlnet) | ControlNet QR Code Generator: Simplify QR code creation for various needs using ControlNet's user-friendly neural interface, making integration a breeze. Just key in the url ! | 325 |
-| [rhelsing/basic-pitch](https://replicate.com/rhelsing/basic-pitch) | Spotify's Basic Pitch Model | 323 |
-| [ahmdyassr/detect-crop-face](https://replicate.com/ahmdyassr/detect-crop-face) | A simple model to detect and crop face found in image, made for https://outfit.fm | 319 |
-| [noah-bjorner/dinov3-vit-large-distilled](https://replicate.com/noah-bjorner/dinov3-vit-large-distilled) | Meta's DINOv3 (ViT-L/16 Distilled). A state-of-the-art self-supervised vision transformer trained on the LVD-1689M dataset. Optimized for visual similarity, image retrieval, and dense feature extraction. | 316 |
-| [zsxkib/talknet-asd](https://replicate.com/zsxkib/talknet-asd) | 🗣️ TalkNet-ASD: Detect who is speaking in a video | 316 |
-| [timothybrooks/instruct-pix2pix](https://replicate.com/timothybrooks/instruct-pix2pix) | Edit images with human instructions | 311 |
-| [google/lyria-3-pro](https://replicate.com/google/lyria-3-pro) | Generate full-length songs up to 3 minutes from text prompts or images with Lyria 3 Pro, Google's most capable music generation model | 306 |
-| [minimax/music-1.5](https://replicate.com/minimax/music-1.5) | Music-1.5: Full-length songs (up to 4 mins) with natural vocals & rich instrumentation | 305 |
-| [flux-kontext-apps/multi-image-kontext-pro](https://replicate.com/flux-kontext-apps/multi-image-kontext-pro) | An experimental model with FLUX Kontext Pro that can combine two input images | 301 |
-| [asiryan/reliberate-v3](https://replicate.com/asiryan/reliberate-v3) | Reliberate v3 Model (Text2Img, Img2Img and Inpainting) | 299 |
-| [pseudoram/rvc-v2](https://replicate.com/pseudoram/rvc-v2) | Speech to speech with any RVC v2 trained AI voice | 295 |
-| [grey-hound432/fast-image-quality-compressor](https://replicate.com/grey-hound432/fast-image-quality-compressor) | A simple and efficient image compression model that reduces file size while maintaining image quality. Designed to boot quickly and deliver results in under a second. | 293 |
-| [jagilley/controlnet-hed](https://replicate.com/jagilley/controlnet-hed) | Modify images using HED maps | 293 |
-| [elevenlabs/scribe-v2](https://replicate.com/elevenlabs/scribe-v2) | Transcribe speech with ElevenLabs Scribe v2. 90+ languages, word-level timestamps, speaker diarization for up to 32 speakers, audio event tagging, and keyterm biasing. Files up to 3 GB and 10 hours. | 288 |
+| [wglodell/cog-whisperx-withprompt](https://replicate.com/wglodell/cog-whisperx-withprompt) | WhisperX transcription with inital_prompt | 432 |
+| [usamaehsan/qwen-image-edit-fastest-2](https://replicate.com/usamaehsan/qwen-image-edit-fastest-2) | 400+ images in 1$ 1024 resolution// 2s /img on L40S GPU, check description and examples | 431 |
+| [prunaai/flux-2-fast](https://replicate.com/prunaai/flux-2-fast) | A step-distilled version of flux 2 down to 1s. | 422 |
+| [sdxl-based/realvisxl-v3](https://replicate.com/sdxl-based/realvisxl-v3) | Amazing photorealism with RealVisXL_V3.0, based on SDXL, trainable | 421 |
+| [google/imagen-3-fast](https://replicate.com/google/imagen-3-fast) | A faster and cheaper Imagen 3 model, for when price or speed are more important than final image quality | 407 |
+| [appmeloncreator/platmoji-beta](https://replicate.com/appmeloncreator/platmoji-beta) | This is an emoji generator fine tuned with Flux. (btw thx so much for the support on this) | 404 |
+| [rossjillian/controlnet](https://replicate.com/rossjillian/controlnet) | Control diffusion models | 403 |
+| [lucataco/qwen3-embedding-8b](https://replicate.com/lucataco/qwen3-embedding-8b) | The Qwen3 Embedding model series is specifically designed for text embedding and ranking tasks | 398 |
+| [jagilley/controlnet-hough](https://replicate.com/jagilley/controlnet-hough) | Modify images using M-LSD line detection | 398 |
+| [pollinations/modnet](https://replicate.com/pollinations/modnet) | A deep learning approach to remove background & adding new background image | 398 |
+| [recraft-ai/recraft-v3-svg](https://replicate.com/recraft-ai/recraft-v3-svg) | Recraft V3 SVG (code-named red_panda) is a text-to-image model with the ability to generate high quality SVG images including logotypes, and icons. The model supports a wide list of styles. | 395 |
+| [luma/reframe-video](https://replicate.com/luma/reframe-video) | Change the aspect ratio of any video up to 30 seconds long, outputs will be 720p | 395 |
+| [alibaba/happyhorse-1.0](https://replicate.com/alibaba/happyhorse-1.0) | Alibaba's Happy Horse 1.0 generates videos from text prompts or animates a single image into video. Supports 720p and 1080p, 3-15 second durations, and five aspect ratios. | 389 |
+| [stability-ai/stable-audio-2.5](https://replicate.com/stability-ai/stable-audio-2.5) | Generate high-quality music and sound from text prompts | 387 |
+| [bytedance/flux-pulid](https://replicate.com/bytedance/flux-pulid) | ⚡️FLUX PuLID: FLUX-dev based Pure and Lightning ID Customization via Contrastive Alignment🎭 | 383 |
+| [grey-hound432/fast-image-resizer](https://replicate.com/grey-hound432/fast-image-resizer) | Resize images to specific dimensions with optional aspect ratio preservation. | 380 |
+| [fofr/video-to-frames](https://replicate.com/fofr/video-to-frames) | Split a video into frames | 371 |
+| [asiryan/reliberate-v3](https://replicate.com/asiryan/reliberate-v3) | Reliberate v3 Model (Text2Img, Img2Img and Inpainting) | 364 |
+| [jd7h/propainter](https://replicate.com/jd7h/propainter) | Object removal, video completion and video outpainting | 363 |
+| [wan-video/wan-2.2-s2v](https://replicate.com/wan-video/wan-2.2-s2v) | Generate a video from an audio clip and a reference image | 361 |
+| [veed/fabric-1.0](https://replicate.com/veed/fabric-1.0) | VEED Fabric 1.0 is an image-to-video API that turns any image into a talking video | 360 |
+| [microsoft/bringing-old-photos-back-to-life](https://replicate.com/microsoft/bringing-old-photos-back-to-life) | Bringing Old Photos Back to Life | 355 |
+| [elevenlabs/turbo-v2.5](https://replicate.com/elevenlabs/turbo-v2.5) | High quality, low latency text to speech in 32 languages | 354 |
+| [codeplugtech/background_remover](https://replicate.com/codeplugtech/background_remover) | Remove background from image | 354 |
+| [zylim0702/qr_code_controlnet](https://replicate.com/zylim0702/qr_code_controlnet) | ControlNet QR Code Generator: Simplify QR code creation for various needs using ControlNet's user-friendly neural interface, making integration a breeze. Just key in the url ! | 350 |
+| [philz1337x/clarity-pro-upscaler](https://replicate.com/philz1337x/clarity-pro-upscaler) | The first creative upscaler which keeps identity. Stunning photorealistic results, realistic skin, and full creative control. | 346 |
+| [sakemin/all-in-one-music-structure-analyzer](https://replicate.com/sakemin/all-in-one-music-structure-analyzer) | Cog implementation of mir-aidj(Taejun Kim)'s 'All-In-One Music Structure Analyzer' | 341 |
+| [flux-kontext-apps/text-removal](https://replicate.com/flux-kontext-apps/text-removal) | Remove all text from an image with FLUX.1 Kontext | 333 |
+| [zf-kbot/sd-inpaint](https://replicate.com/zf-kbot/sd-inpaint) | Fill in masked parts of images with Stable Diffusion | 326 |
+| [lightricks/ltx-2.3-fast](https://replicate.com/lightricks/ltx-2.3-fast) | Lightning-fast video generation with portrait support, camera controls, and synchronized audio. Up to 20 seconds at 1080p, 4K at 50 FPS. | 314 |
+| [qwen/qwen-image-2-pro](https://replicate.com/qwen/qwen-image-2-pro) | The pro version of Qwen Image 2 from Alibaba's Qwen team. Enhanced text rendering, realism, and semantic adherence for high-quality image generation and editing. | 314 |
+| [elevenlabs/scribe-v2](https://replicate.com/elevenlabs/scribe-v2) | Transcribe speech with ElevenLabs Scribe v2. 90+ languages, word-level timestamps, speaker diarization for up to 32 speakers, audio event tagging, and keyterm biasing. Files up to 3 GB and 10 hours. | 313 |
+| [openai/gpt-4.1](https://replicate.com/openai/gpt-4.1) | OpenAI's Flagship GPT model for complex tasks. | 312 |
+| [recraft-ai/recraft-v4.1](https://replicate.com/recraft-ai/recraft-v4.1) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 309 |
+| [astelvida/genmoji-gen](https://replicate.com/astelvida/genmoji-gen) | null | 308 |
+| [moonshotai/kimi-k2.6](https://replicate.com/moonshotai/kimi-k2.6) | Moonshot AI's frontier open model, built for long-horizon coding, agent swarms, and autonomous software engineering. 1 trillion parameters, 262k context window, vision and tool use. | 305 |
+| [noah-bjorner/dinov3-vit-large-distilled](https://replicate.com/noah-bjorner/dinov3-vit-large-distilled) | Meta's DINOv3 (ViT-L/16 Distilled). A state-of-the-art self-supervised vision transformer trained on the LVD-1689M dataset. Optimized for visual similarity, image retrieval, and dense feature extraction. | 304 |
+| [black-forest-labs/flux-depth-pro](https://replicate.com/black-forest-labs/flux-depth-pro) | Professional depth-aware image generation. Edit images while preserving spatial relationships. | 303 |
+| [minimax/music-1.5](https://replicate.com/minimax/music-1.5) | Music-1.5: Full-length songs (up to 4 mins) with natural vocals & rich instrumentation | 301 |
+| [lucataco/nsfw_video_detection](https://replicate.com/lucataco/nsfw_video_detection) | FalconAIs NSFW detection model, extended for videos | 300 |
+| [bytedance/seedream-3](https://replicate.com/bytedance/seedream-3) | A text-to-image model with support for native high-resolution (2K) image generation | 298 |
+| [ibm-granite/granite-3.3-8b-instruct](https://replicate.com/ibm-granite/granite-3.3-8b-instruct) | Granite-3.3-8B-Instruct is a 8-billion parameter 128K context length language model fine-tuned for improved reasoning and instruction-following capabilities. | 296 |
+| [flux-kontext-apps/multi-image-kontext-pro](https://replicate.com/flux-kontext-apps/multi-image-kontext-pro) | An experimental model with FLUX Kontext Pro that can combine two input images | 294 |
+| [jagilley/controlnet-hed](https://replicate.com/jagilley/controlnet-hed) | Modify images using HED maps | 294 |
+| [recraft-ai/recraft-v4-svg](https://replicate.com/recraft-ai/recraft-v4-svg) | Generate production-ready SVG vector images from text prompts. Recraft V4's design taste applied to vector output — clean geometry, structured layers, and editable paths. | 293 |
+| [bytedance/latentsync](https://replicate.com/bytedance/latentsync) | LatentSync: generate high-quality lip sync animations | 292 |
+| [vufinder/map-anything](https://replicate.com/vufinder/map-anything) | Universal Feed-Forward Metric 3D Reconstruction | 290 |
 | [mikeei/dolphin-2.9.1-llama3-8b-gguf](https://replicate.com/mikeei/dolphin-2.9.1-llama3-8b-gguf) | Dolphin is uncensored. I have filtered the dataset to remove alignment and bias. This makes the model more compliant. | 288 |
-| [sync/lipsync-2-pro](https://replicate.com/sync/lipsync-2-pro) | Studio-grade lipsync in minutes, not weeks | 287 |
-| [elevenlabs/v3](https://replicate.com/elevenlabs/v3) | The most expressive Text to Speech model | 287 |
-| [black-forest-labs/flux-2-klein-9b-base](https://replicate.com/black-forest-labs/flux-2-klein-9b-base) | Un-distilled version of FLUX.2 [klein]. A foundation model for maximum flexibility and control | 284 |
-| [alphanumericuser/kokoro-82m](https://replicate.com/alphanumericuser/kokoro-82m) | Kokoro v1.0 - text-to-speech (82M params, based on StyleTTS2) | 283 |
-| [luma/reframe-image](https://replicate.com/luma/reframe-image) | Change the aspect ratio of any photo using AI (not cropping) | 273 |
-| [sdxl-based/realvisxl-v3](https://replicate.com/sdxl-based/realvisxl-v3) | Amazing photorealism with RealVisXL_V3.0, based on SDXL, trainable | 269 |
-| [aleksanderobuchowski/bielik-11b-v2.3-instruct](https://replicate.com/aleksanderobuchowski/bielik-11b-v2.3-instruct) | Bielik-11B-v2.3-Instruct is a generative text model made by SpeakLeash and Cyfronet featuring 11 billion parameters. It is a linear merge of the Bielik-11B-v2.0-Instruct, Bielik-11B-v2.1-Instruct, and Bielik-11B-v2.2-Instruct models. | 263 |
-| [bytedance/latentsync](https://replicate.com/bytedance/latentsync) | LatentSync: generate high-quality lip sync animations | 260 |
-| [black-forest-labs/flux-redux-dev](https://replicate.com/black-forest-labs/flux-redux-dev) | Open-weight image variation model. Create new versions while preserving key elements of your original. | 259 |
-| [astelvida/genmoji-gen](https://replicate.com/astelvida/genmoji-gen) | null | 259 |
-| [fofr/sdxl-fresh-ink](https://replicate.com/fofr/sdxl-fresh-ink) | SDXL fine-tuned on photos of freshly inked tattoos | 256 |
-| [qwen/qwen-image-2512](https://replicate.com/qwen/qwen-image-2512) | Qwen Image 2512 is an improved version of Qwen Image with more realistic human generation, finer textures, and stronger text rendering | 254 |
-| [vectradmin/sdxl-v-transparent](https://replicate.com/vectradmin/sdxl-v-transparent) | null | 253 |
-| [fofr/become-image](https://replicate.com/fofr/become-image) | Adapt any picture of a face into another image | 250 |
-| [lucataco/video-merge](https://replicate.com/lucataco/video-merge) | Simple tool to merge together separate video snippets | 248 |
-| [ideogram-ai/ideogram-character](https://replicate.com/ideogram-ai/ideogram-character) | Generate consistent characters from a single reference image. Outputs can be in many styles. You can also use inpainting to add your character to an existing image. | 241 |
-| [jingyunliang/swinir](https://replicate.com/jingyunliang/swinir) | Image Restoration Using Swin Transformer | 241 |
-| [black-forest-labs/flux-depth-pro](https://replicate.com/black-forest-labs/flux-depth-pro) | Professional depth-aware image generation. Edit images while preserving spatial relationships. | 240 |
-| [google-deepmind/shieldgemma-2-4b-it](https://replicate.com/google-deepmind/shieldgemma-2-4b-it) | ShieldGemma 2 is a model trained on Gemma 3's 4B IT checkpoint for image safety classification across key categories that takes in images and outputs safety labels per policy. | 240 |
-| [rossjillian/controlnet](https://replicate.com/rossjillian/controlnet) | Control diffusion models | 240 |
-| [minimax/music-01](https://replicate.com/minimax/music-01) | Quickly generate up to 1 minute of music with lyrics and vocals in the style of a reference track | 238 |
-| [luma/photon](https://replicate.com/luma/photon) | High-quality image generation model optimized for creative professional workflows and ultra-high fidelity outputs | 238 |
-| [recraft-ai/recraft-v4.1](https://replicate.com/recraft-ai/recraft-v4.1) | Recraft's latest image generation model, built around design taste. Strong prompt accuracy, art-directed composition, and integrated text rendering. Fast and cost-efficient at standard resolution. | 235 |
-| [qwen/qwen-image-2](https://replicate.com/qwen/qwen-image-2) | A next-generation image generation and editing model from Alibaba's Qwen team. Supports text-to-image and image editing with strong text rendering, especially for Chinese. | 235 |
-| [google/veo-3-fast](https://replicate.com/google/veo-3-fast) | A faster and cheaper version of Google’s Veo 3 video model, with audio | 233 |
-| [yuval-alaluf/sam](https://replicate.com/yuval-alaluf/sam) | Only a Matter of Style: Age Transformation Using a Style-Based Regression Model | 232 |
-| [fishaudio/ace-step-1.5](https://replicate.com/fishaudio/ace-step-1.5) | Ace Step 1.5 open source music generation model | 231 |
-| [meta/sam-2-video](https://replicate.com/meta/sam-2-video) | SAM 2: Segment Anything v2 (for videos) | 231 |
-| [stability-ai/stable-diffusion-3](https://replicate.com/stability-ai/stable-diffusion-3) | A text-to-image model with greatly improved performance in image quality, typography, complex prompt understanding, and resource-efficiency | 231 |
-| [lqhl/realesrgan](https://replicate.com/lqhl/realesrgan) | Image restoration and face enhancement | 231 |
-| [lightricks/ltx-2.3-fast](https://replicate.com/lightricks/ltx-2.3-fast) | Lightning-fast video generation with portrait support, camera controls, and synchronized audio. Up to 20 seconds at 1080p, 4K at 50 FPS. | 229 |
-| [gewoonjaap/flux-emoji](https://replicate.com/gewoonjaap/flux-emoji) | Easily create emojis using Flux Dev | 227 |
-| [google/lyria-2](https://replicate.com/google/lyria-2) | Lyria 2 is a music generation model that produces 48kHz stereo audio through text-based prompts | 225 |
-| [openai/o4-mini](https://replicate.com/openai/o4-mini) | OpenAI's fast, lightweight reasoning model | 223 |
-| [tencentarc/photomaker-style](https://replicate.com/tencentarc/photomaker-style) | Create photos, paintings and avatars for anyone in any style within seconds.  (Stylization version) | 222 |
-| [lucataco/real-esrgan-video](https://replicate.com/lucataco/real-esrgan-video) | Real-ESRGAN Video Upscaler | 221 |
-| [grey-hound432/fast-image-resizer](https://replicate.com/grey-hound432/fast-image-resizer) | Resize images to specific dimensions with optional aspect ratio preservation. | 216 |
-| [okaris/live-portrait](https://replicate.com/okaris/live-portrait) | null | 214 |
-| [jagilley/controlnet-hough](https://replicate.com/jagilley/controlnet-hough) | Modify images using M-LSD line detection | 212 |
-| [resemble-ai/chatterbox-multilingual](https://replicate.com/resemble-ai/chatterbox-multilingual) | Generate expressive, natural speech in 23 languages. Features instant voice cloning from short audio, emotion control, and seamless cross-language voice transfer. | 210 |
-| [luma/reframe-video](https://replicate.com/luma/reframe-video) | Change the aspect ratio of any video up to 30 seconds long, outputs will be 720p | 205 |
-| [datalab-to/marker](https://replicate.com/datalab-to/marker) | Convert PDF to markdown + JSON quickly with high accuracy | 205 |
-| [openai/gpt-oss-120b](https://replicate.com/openai/gpt-oss-120b) | 120b open-weight language model from OpenAI | 204 |
-| [wan-video/wan2.6-i2v-flash](https://replicate.com/wan-video/wan2.6-i2v-flash) | Image-to-video generation with optional audio, multi-shot narrative support, and faster inference | 204 |
-| [pikachupichu25/image-faceswap](https://replicate.com/pikachupichu25/image-faceswap) | null | 203 |
-| [awerks/neon-tts](https://replicate.com/awerks/neon-tts) | NeonAI Coqui AI TTS Plugin. | 198 |
-| [black-forest-labs/flux-canny-dev](https://replicate.com/black-forest-labs/flux-canny-dev) | Open-weight edge-guided image generation. Control structure and composition using Canny edge detection. | 197 |
+| [fofr/become-image](https://replicate.com/fofr/become-image) | Adapt any picture of a face into another image | 288 |
+| [turian/insanely-fast-whisper-with-video](https://replicate.com/turian/insanely-fast-whisper-with-video) | whisper-large-v3, incredibly fast, with video transcription | 285 |
+| [lucataco/sam3-video](https://replicate.com/lucataco/sam3-video) | A unified foundation model for prompt-based segmentation in images and videos | 284 |
+| [alphanumericuser/kokoro-82m](https://replicate.com/alphanumericuser/kokoro-82m) | Kokoro v1.0 - text-to-speech (82M params, based on StyleTTS2) | 280 |
+| [andreasjansson/stable-diffusion-inpainting](https://replicate.com/andreasjansson/stable-diffusion-inpainting) | Inpainting using RunwayML's stable-diffusion-inpainting checkpoint | 280 |
+| [retro-diffusion/rd-fast](https://replicate.com/retro-diffusion/rd-fast) | Fast pixel art image generation | 275 |
+| [lucataco/flux-content-filter](https://replicate.com/lucataco/flux-content-filter) | Flux Content Filter - Check for public figures and copyright concerns | 275 |
+| [black-forest-labs/flux-redux-dev](https://replicate.com/black-forest-labs/flux-redux-dev) | Open-weight image variation model. Create new versions while preserving key elements of your original. | 273 |
+| [fofr/sdxl-fresh-ink](https://replicate.com/fofr/sdxl-fresh-ink) | SDXL fine-tuned on photos of freshly inked tattoos | 272 |
+| [aaronaftab/mirage-ghibli](https://replicate.com/aaronaftab/mirage-ghibli) | Ghiblify any image, 10x cheaper/faster than GPT 4o | 270 |
+| [zf-kbot/photo-to-anime](https://replicate.com/zf-kbot/photo-to-anime) | Convert images to anime style | 269 |
+| [luma/reframe-image](https://replicate.com/luma/reframe-image) | Change the aspect ratio of any photo using AI (not cropping) | 268 |
+| [gewoonjaap/flux-emoji](https://replicate.com/gewoonjaap/flux-emoji) | Easily create emojis using Flux Dev | 265 |
+| [ahmdyassr/detect-crop-face](https://replicate.com/ahmdyassr/detect-crop-face) | A simple model to detect and crop face found in image, made for https://outfit.fm | 264 |
+| [google/lyria-3-pro](https://replicate.com/google/lyria-3-pro) | Generate full-length songs up to 3 minutes from text prompts or images with Lyria 3 Pro, Google's most capable music generation model | 261 |
+| [tencent/hunyuan-3d-3.1](https://replicate.com/tencent/hunyuan-3d-3.1) | 3D models with texture fidelity and geometry precision | 261 |
+| [anthropic/claude-opus-4.6](https://replicate.com/anthropic/claude-opus-4.6) | Anthropic's most intelligent model with state-of-the-art coding, reasoning, and agentic capabilities | 258 |
+| [okaris/live-portrait](https://replicate.com/okaris/live-portrait) | null | 257 |
+| [resemble-ai/chatterbox-multilingual](https://replicate.com/resemble-ai/chatterbox-multilingual) | Generate expressive, natural speech in 23 languages. Features instant voice cloning from short audio, emotion control, and seamless cross-language voice transfer. | 255 |
+| [bria/expand-image](https://replicate.com/bria/expand-image) | Bria Expand expands images beyond their borders in high quality. Resizing the image by generating new pixels to expand to the desired aspect ratio. Trained exclusively on licensed data for safe and risk-free commercial use | 254 |
+| [luma/photon](https://replicate.com/luma/photon) | High-quality image generation model optimized for creative professional workflows and ultra-high fidelity outputs | 251 |
+| [lucataco/ace-step](https://replicate.com/lucataco/ace-step) | A Step Towards Music Generation Foundation Model text2music | 250 |
+| [colinmcdonnell22/ghiblify-3](https://replicate.com/colinmcdonnell22/ghiblify-3) | null | 250 |
+| [kwaivgi/kling-v1.6-pro](https://replicate.com/kwaivgi/kling-v1.6-pro) | Generate 5s and 10s videos in 1080p resolution | 249 |
+| [rhelsing/basic-pitch](https://replicate.com/rhelsing/basic-pitch) | Spotify's Basic Pitch Model | 249 |
+| [cuuupid/markitdown](https://replicate.com/cuuupid/markitdown) | Microsoft's tool to convert Office documents, PDFs, images, audio, and more to LLM-ready markdown. | 247 |
+| [nvidia/sana-sprint-1.6b](https://replicate.com/nvidia/sana-sprint-1.6b) | SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation | 244 |
+| [jingyunliang/swinir](https://replicate.com/jingyunliang/swinir) | Image Restoration Using Swin Transformer | 243 |
+| [perceptron-ai-inc/isaac-0.1](https://replicate.com/perceptron-ai-inc/isaac-0.1) | an open-source, 2B-parameter model built for real-world applications | 239 |
+| [aisha-ai-official/nsfw-flux-dev](https://replicate.com/aisha-ai-official/nsfw-flux-dev) | null | 236 |
+| [wan-video/wan-2.2-animate-replace](https://replicate.com/wan-video/wan-2.2-animate-replace) | Use Wan 2.2 Animate to replace a character in a video scene | 235 |
+| [lightricks/ltx-video-0.9.7-distilled](https://replicate.com/lightricks/ltx-video-0.9.7-distilled) | Faster slight quality reduction compared to LTX-Video 13b | 235 |
+| [lucataco/qwen3-vl-8b-instruct](https://replicate.com/lucataco/qwen3-vl-8b-instruct) | A powerful vision-language model in the Qwen series | 234 |
+| [pseudoram/rvc-v2](https://replicate.com/pseudoram/rvc-v2) | Speech to speech with any RVC v2 trained AI voice | 234 |
+| [stability-ai/stable-diffusion-3](https://replicate.com/stability-ai/stable-diffusion-3) | A text-to-image model with greatly improved performance in image quality, typography, complex prompt understanding, and resource-efficiency | 230 |
+| [fofr/face-to-sticker](https://replicate.com/fofr/face-to-sticker) | Turn a face into a sticker | 230 |
+| [fishaudio/ace-step-1.5](https://replicate.com/fishaudio/ace-step-1.5) | Ace Step 1.5 open source music generation model | 227 |
+| [vectradmin/sdxl-v-transparent](https://replicate.com/vectradmin/sdxl-v-transparent) | null | 222 |
+| [recraft-ai/recraft-v4.1-pro](https://replicate.com/recraft-ai/recraft-v4.1-pro) | Recraft's latest image generation model at ~2048px resolution. Same design taste and prompt accuracy as V4.1, with higher resolution for print-ready and large-scale work. | 219 |
+| [tencentarc/photomaker-style](https://replicate.com/tencentarc/photomaker-style) | Create photos, paintings and avatars for anyone in any style within seconds.  (Stylization version) | 217 |
+| [google/veo-3-fast](https://replicate.com/google/veo-3-fast) | A faster and cheaper version of Google’s Veo 3 video model, with audio | 216 |
+| [awerks/neon-tts](https://replicate.com/awerks/neon-tts) | NeonAI Coqui AI TTS Plugin. | 214 |
+| [recraft-ai/recraft-20b-svg](https://replicate.com/recraft-ai/recraft-20b-svg) | Affordable and fast vector images | 213 |
+| [lucataco/hotshot-xl](https://replicate.com/lucataco/hotshot-xl) | 😊 Hotshot-XL is an AI text-to-GIF model trained to work alongside Stable Diffusion XL | 210 |
+| [kwaivgi/kling-avatar-v2](https://replicate.com/kwaivgi/kling-avatar-v2) | Create avatar videos with realistic humans, animals, cartoons, or stylized characters | 209 |
+| [minimax/hailuo-2.3](https://replicate.com/minimax/hailuo-2.3) | A high-fidelity video generation model optimized for realistic human motion, cinematic VFX, expressive characters, and strong prompt and style adherence across both text-to-video and image-to-video workflows | 205 |
+| [yuval-alaluf/sam](https://replicate.com/yuval-alaluf/sam) | Only a Matter of Style: Age Transformation Using a Style-Based Regression Model | 205 |
+| [lucataco/real-esrgan-video](https://replicate.com/lucataco/real-esrgan-video) | Real-ESRGAN Video Upscaler | 202 |
+| [lqhl/realesrgan](https://replicate.com/lqhl/realesrgan) | Image restoration and face enhancement | 202 |
+| [jyoung105/playground-v2.5](https://replicate.com/jyoung105/playground-v2.5) | Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation | 197 |
+| [yorickvp/llava-v1.6-mistral-7b](https://replicate.com/yorickvp/llava-v1.6-mistral-7b) | LLaVA v1.6: Large Language and Vision Assistant (Mistral-7B) | 197 |
 | [minimax/music-2.6](https://replicate.com/minimax/music-2.6) | Generate full-length songs or instrumentals from a text prompt, with optional auto-generated lyrics | 196 |
-| [nvidia/sana-sprint-1.6b](https://replicate.com/nvidia/sana-sprint-1.6b) | SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation | 194 |
-| [bytedance/hyper-flux-16step](https://replicate.com/bytedance/hyper-flux-16step) | Hyper FLUX 16-step by ByteDance | 193 |
-| [zf-kbot/photo-to-anime](https://replicate.com/zf-kbot/photo-to-anime) | Convert images to anime style | 192 |
-| [minimax/hailuo-2.3](https://replicate.com/minimax/hailuo-2.3) | A high-fidelity video generation model optimized for realistic human motion, cinematic VFX, expressive characters, and strong prompt and style adherence across both text-to-video and image-to-video workflows | 190 |
-| [prunaai/flux-2-fast](https://replicate.com/prunaai/flux-2-fast) | A step-distilled version of flux 2 down to 1s. | 189 |
-| [jyoung105/playground-v2.5](https://replicate.com/jyoung105/playground-v2.5) | Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation | 186 |
-| [wan-video/wan-2.7-t2v](https://replicate.com/wan-video/wan-2.7-t2v) | Generate videos with audio from text prompts using Alibaba's Wan 2.7 model. 1080p, up to 15 seconds, with audio synchronization. | 183 |
-| [leonardoai/lucid-origin](https://replicate.com/leonardoai/lucid-origin) | Artistic and high-quality visuals with improved prompt adherence, diversity, and definition | 182 |
-| [aisha-ai-official/nsfw-flux-dev](https://replicate.com/aisha-ai-official/nsfw-flux-dev) | null | 181 |
-| [viktorfa/oot_diffusion](https://replicate.com/viktorfa/oot_diffusion) | Virtual dressing room | 179 |
-| [idea-research/ram-grounded-sam](https://replicate.com/idea-research/ram-grounded-sam) | A Strong Image Tagging Model with Segment Anything | 179 |
-| [fofr/video-to-frames](https://replicate.com/fofr/video-to-frames) | Split a video into frames | 175 |
-| [bytedance/dreamactor-m2.0](https://replicate.com/bytedance/dreamactor-m2.0) | Animate any character, humans, cartoons, animals, even non-humans, from a single image + driving video | 173 |
-| [lucataco/hotshot-xl](https://replicate.com/lucataco/hotshot-xl) | 😊 Hotshot-XL is an AI text-to-GIF model trained to work alongside Stable Diffusion XL | 173 |
-| [lucataco/flux-dev-multi-lora](https://replicate.com/lucataco/flux-dev-multi-lora) | FLUX.1-Dev Multi LoRA Explorer | 172 |
-| [zsxkib/qwen2-1.5b-instruct](https://replicate.com/zsxkib/qwen2-1.5b-instruct) | Qwen 2: A 1.5 billion parameter language model from Alibaba Cloud, fine tuned for chat completions | 172 |
+| [qwen/qwen-image-2512](https://replicate.com/qwen/qwen-image-2512) | Qwen Image 2512 is an improved version of Qwen Image with more realistic human generation, finer textures, and stronger text rendering | 196 |
+| [inworld/realtime-tts-2](https://replicate.com/inworld/realtime-tts-2) | Most expressive text-to-speech model from Inworld, with natural-language steering, real-time latency, and multilingual support across 100+ languages. | 194 |
+| [bytedance/omni-human-1.5](https://replicate.com/bytedance/omni-human-1.5) | A film-grade digital human model that generates realistic video from a single image, audio clip, and optional text prompt. | 193 |
+| [reve/edit](https://replicate.com/reve/edit) | Image editing model from Reve | 193 |
+| [lucataco/sdxl-lightning-multi-controlnet](https://replicate.com/lucataco/sdxl-lightning-multi-controlnet) | SDXL lightning mult-controlnet, img2img & inpainting | 192 |
+| [sync/lipsync-2-pro](https://replicate.com/sync/lipsync-2-pro) | Studio-grade lipsync in minutes, not weeks | 190 |
+| [black-forest-labs/flux-canny-dev](https://replicate.com/black-forest-labs/flux-canny-dev) | Open-weight edge-guided image generation. Control structure and composition using Canny edge detection. | 189 |
+| [lucataco/realistic-vision-v5.1](https://replicate.com/lucataco/realistic-vision-v5.1) | Implementation of Realistic Vision v5.1 with VAE | 189 |
+| [minimax/music-01](https://replicate.com/minimax/music-01) | Quickly generate up to 1 minute of music with lyrics and vocals in the style of a reference track | 187 |
+| [aisha-ai-official/miaomiao-harem-illustrious-v1](https://replicate.com/aisha-ai-official/miaomiao-harem-illustrious-v1) | null | 187 |
+| [luma/photon-flash](https://replicate.com/luma/photon-flash) | Accelerated variant of Photon prioritizing speed while maintaining quality | 183 |
+| [cjwbw/midas](https://replicate.com/cjwbw/midas) | Robust Monocular Depth Estimation | 183 |
+| [delta-lock/noobai-xl](https://replicate.com/delta-lock/noobai-xl) | Models fine-tuned from NoobAI-XL/Illustrious-XL series. | 182 |
+| [riffusion/riffusion](https://replicate.com/riffusion/riffusion) | Stable diffusion for real-time music generation | 181 |
+| [bria/increase-resolution](https://replicate.com/bria/increase-resolution) | Bria Increase resolution upscales the resolution of any image. It increases resolution using a dedicated upscaling method that preserves the original image content without regeneration. | 179 |
+| [wan-video/wan2.6-i2v-flash](https://replicate.com/wan-video/wan2.6-i2v-flash) | Image-to-video generation with optional audio, multi-shot narrative support, and faster inference | 177 |
+| [black-forest-labs/flux-2-klein-9b-base](https://replicate.com/black-forest-labs/flux-2-klein-9b-base) | Un-distilled version of FLUX.2 [klein]. A foundation model for maximum flexibility and control | 175 |
+| [bytedance/hyper-flux-16step](https://replicate.com/bytedance/hyper-flux-16step) | Hyper FLUX 16-step by ByteDance | 175 |
+| [bria/generate-background](https://replicate.com/bria/generate-background) | Bria Background Generation allows for efficient swapping of backgrounds in images via text prompts or reference image, delivering realistic and polished results. Trained exclusively on licensed data for safe and risk-free commercial use | 174 |
+| [kwaivgi/kling-v2.0](https://replicate.com/kwaivgi/kling-v2.0) | Generate 5s and 10s videos in 720p resolution | 173 |
 | [zust-ai/supir](https://replicate.com/zust-ai/supir) | null | 172 |
-| [flux-kontext-apps/change-haircut](https://replicate.com/flux-kontext-apps/change-haircut) | Quickly change someone's hair style and hair color, powered by FLUX.1 Kontext [pro] | 171 |
-| [zsxkib/tool-merge-images](https://replicate.com/zsxkib/tool-merge-images) | Merge multiple images into clean horizontal or vertical strips with precise alignment and sizing controls. | 169 |
-| [flux-kontext-apps/multi-image-list](https://replicate.com/flux-kontext-apps/multi-image-list) | FLUX Kontext max with list input for multiple images | 168 |
-| [riffusion/riffusion](https://replicate.com/riffusion/riffusion) | Stable diffusion for real-time music generation | 168 |
-| [minimax/speech-2.6-hd](https://replicate.com/minimax/speech-2.6-hd) | MiniMax Speech 2.6 HD delivers studio-quality multilingual text-to-audio on Replicate with nuanced prosody, subtitle export, and premium voices | 166 |
-| [sync/lipsync-2](https://replicate.com/sync/lipsync-2) | Generate realistic lipsyncs with Sync Labs' 2.0 model | 164 |
-| [havocy28/ai-detector](https://replicate.com/havocy28/ai-detector) | Detect AI Generated Text with Fast-DetectGPT | 164 |
-| [flux-kontext-apps/multi-image-kontext-max](https://replicate.com/flux-kontext-apps/multi-image-kontext-max) | An experimental FLUX Kontext model that can combine two input images | 162 |
-| [turian/insanely-fast-whisper-with-video](https://replicate.com/turian/insanely-fast-whisper-with-video) | whisper-large-v3, incredibly fast, with video transcription | 159 |
-| [kwaivgi/kling-v2.0](https://replicate.com/kwaivgi/kling-v2.0) | Generate 5s and 10s videos in 720p resolution | 158 |
-| [wan-video/wan-2.6-i2v](https://replicate.com/wan-video/wan-2.6-i2v) | Alibaba Wan 2.6 image to video generation model | 157 |
-| [rafaelgalle/whisper-diarization-advanced](https://replicate.com/rafaelgalle/whisper-diarization-advanced) | Ultra-fast, customizable speech-to-text and speaker diarization for noisy, multi-speaker audio. Includes advanced noise reduction, stereo channel support, and flexible audio preprocessing—ideal for call centers, meetings, and podcasts. | 157 |
-| [pixverse/pixverse-v5](https://replicate.com/pixverse/pixverse-v5) | Create 5s-8s videos with enhanced character movement, visual effects, and exclusive 1080p-8s support. Optimized for anime characters and complex actions | 156 |
-| [meta/llama-2-70b](https://replicate.com/meta/llama-2-70b) | Base version of Llama 2, a 70 billion parameter language model from Meta. | 154 |
-| [wan-video/wan-2.2-animate-replace](https://replicate.com/wan-video/wan-2.2-animate-replace) | Use Wan 2.2 Animate to replace a character in a video scene | 151 |
-| [kwaivgi/kling-v1.6-pro](https://replicate.com/kwaivgi/kling-v1.6-pro) | Generate 5s and 10s videos in 1080p resolution | 151 |
-| [pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) | The CLIP Interrogator is a prompt engineering tool that combines OpenAI's CLIP and Salesforce's BLIP to optimize text prompts to match a given image. Use the resulting prompts with text-to-image models like Stable Diffusion to create cool art! | 151 |
-| [flux-kontext-apps/face-to-many-kontext](https://replicate.com/flux-kontext-apps/face-to-many-kontext) | Become a character, in style | 148 |
-| [openai/gpt-4o-transcribe](https://replicate.com/openai/gpt-4o-transcribe) | A speech-to-text model that uses GPT-4o to transcribe audio | 147 |
-| [fofr/face-to-sticker](https://replicate.com/fofr/face-to-sticker) | Turn a face into a sticker | 146 |
-| [aisha-ai-official/illust3relustion](https://replicate.com/aisha-ai-official/illust3relustion) | null | 145 |
-| [myaiteam2/website-scrapper](https://replicate.com/myaiteam2/website-scrapper) | Just some good ole beautifulsoup scrapping URL magic. (some sites don't work as they block scrapping, but still useful) | 144 |
-| [vufinder/map-anything](https://replicate.com/vufinder/map-anything) | Universal Feed-Forward Metric 3D Reconstruction | 143 |
-| [wan-video/wan-2.5-i2v-fast](https://replicate.com/wan-video/wan-2.5-i2v-fast) | Wan 2.5 image-to-video, optimized for speed | 143 |
-| [lucataco/qwen3-vl-8b-instruct](https://replicate.com/lucataco/qwen3-vl-8b-instruct) | A powerful vision-language model in the Qwen series | 139 |
-| [aisha-ai-official/miaomiao-harem-illustrious-v1](https://replicate.com/aisha-ai-official/miaomiao-harem-illustrious-v1) | null | 139 |
-| [reve/edit](https://replicate.com/reve/edit) | Image editing model from Reve | 136 |
-| [lucataco/nsfw_video_detection](https://replicate.com/lucataco/nsfw_video_detection) | FalconAIs NSFW detection model, extended for videos | 134 |
-| [cjwbw/sadtalker](https://replicate.com/cjwbw/sadtalker) | Stylized Audio-Driven Single Image Talking Face Animation | 134 |
-| [minimax/voice-cloning](https://replicate.com/minimax/voice-cloning) | Clone voices to use with Minimax's speech-02-hd and speech-02-turbo | 130 |
-| [usamaehsan/controlnet-x-ip-adapter-realistic-vision-v5](https://replicate.com/usamaehsan/controlnet-x-ip-adapter-realistic-vision-v5) | Inpainting || multi-controlnet || single-controlnet || ip-adapter || ip adapter face || ip adapter plus || No ip adapter | 130 |
-| [black-forest-labs/flux-canny-pro](https://replicate.com/black-forest-labs/flux-canny-pro) | Professional edge-guided image generation. Control structure and composition using Canny edge detection | 129 |
-| [reve/create](https://replicate.com/reve/create) | Image generation model from Reve | 127 |
-| [qr2ai/outline](https://replicate.com/qr2ai/outline) | From Sketch to Reality: Transforming Outlines into Lifelike Images | 124 |
-| [openai/sora-2-pro](https://replicate.com/openai/sora-2-pro) | OpenAI's Most advanced synced-audio video generation | 123 |
-| [black-forest-labs/flux-schnell-lora](https://replicate.com/black-forest-labs/flux-schnell-lora) | The fastest image generation model tailored for fine-tuned use | 123 |
-| [bytedance/omni-human-1.5](https://replicate.com/bytedance/omni-human-1.5) | A film-grade digital human model that generates realistic video from a single image, audio clip, and optional text prompt. | 119 |
-| [luma/ray-flash-2-720p](https://replicate.com/luma/ray-flash-2-720p) | Generate 5s and 9s 720p videos, faster and cheaper than Ray 2 | 119 |
-| [apna-mart/face-match](https://replicate.com/apna-mart/face-match) | Checks similarity in two facial images | 119 |
-| [lucataco/hermes-2-pro-llama-3-8b](https://replicate.com/lucataco/hermes-2-pro-llama-3-8b) | Hermes 2 Pro is an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced Function Calling and JSON Mode dataset developed in-house | 119 |
-| [lucataco/gfpgan](https://replicate.com/lucataco/gfpgan) | Practical face restoration algorithm for *old photos* or *AI-generated faces* (for larger images) | 118 |
-| [retro-diffusion/rd-plus](https://replicate.com/retro-diffusion/rd-plus) | High quality and authentic pixel art image generation | 116 |
-| [luma/photon-flash](https://replicate.com/luma/photon-flash) | Accelerated variant of Photon prioritizing speed while maintaining quality | 116 |
-| [replicate/fast-flux-trainer](https://replicate.com/replicate/fast-flux-trainer) | Train subjects or styles faster than ever | 115 |
-| [xlabs-ai/flux-dev-realism](https://replicate.com/xlabs-ai/flux-dev-realism) | FLUX.1-dev with XLabs-AI’s realism lora | 115 |
-| [bria/generate-background](https://replicate.com/bria/generate-background) | Bria Background Generation allows for efficient swapping of backgrounds in images via text prompts or reference image, delivering realistic and polished results. Trained exclusively on licensed data for safe and risk-free commercial use | 114 |
-| [aisha-ai-official/prefect-pony-xl-v5](https://replicate.com/aisha-ai-official/prefect-pony-xl-v5) | null | 114 |
-| [google/veo-3](https://replicate.com/google/veo-3) | Sound on: Google’s flagship Veo 3 text to video model, with audio | 113 |
-| [jagilley/controlnet-scribble](https://replicate.com/jagilley/controlnet-scribble) | Generate detailed images from scribbled drawings | 113 |
-| [recraft-ai/recraft-v4-pro](https://replicate.com/recraft-ai/recraft-v4-pro) | Recraft's latest image generation model at ~2048px resolution. Same design taste and prompt accuracy as V4, with higher resolution for print-ready and large-scale work. | 112 |
-| [recraft-ai/recraft-20b](https://replicate.com/recraft-ai/recraft-20b) | Affordable and fast images | 111 |
-| [wan-video/wan-2.2-animate-animation](https://replicate.com/wan-video/wan-2.2-animate-animation) | Use Wan 2.2 Animate to copy the motion of a video to another scene | 108 |
-| [openai/gpt-4o-mini-transcribe](https://replicate.com/openai/gpt-4o-mini-transcribe) | A speech-to-text model that uses GPT-4o mini to transcribe audio | 106 |
-| [fermatresearch/bisenet-faces](https://replicate.com/fermatresearch/bisenet-faces) | A Cog implementation of BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [Face Parsing] (https://github.com/yakhyo/face-parsing). | 106 |
-| [xlabs-ai/flux-dev-controlnet](https://replicate.com/xlabs-ai/flux-dev-controlnet) | XLabs v3 canny, depth and soft edge controlnets for Flux.1 Dev | 106 |
-| [pixverse/pixverse-v4.5](https://replicate.com/pixverse/pixverse-v4.5) | Quickly make 5s or 8s videos at 540p, 720p or 1080p. It has enhanced motion, prompt coherence and handles complex actions well. | 105 |
-| [kwaivgi/kling-avatar-v2](https://replicate.com/kwaivgi/kling-avatar-v2) | Create avatar videos with realistic humans, animals, cartoons, or stylized characters | 104 |
-| [recraft-ai/recraft-20b-svg](https://replicate.com/recraft-ai/recraft-20b-svg) | Affordable and fast vector images | 104 |
-| [stability-ai/stable-diffusion-3.5-medium](https://replicate.com/stability-ai/stable-diffusion-3.5-medium) | 2.5 billion parameter image model with improved MMDiT-X architecture | 104 |
-| [ardianfe/demucs-prod](https://replicate.com/ardianfe/demucs-prod) | sound separation with demucs | 104 |
+| [openai/gpt-oss-120b](https://replicate.com/openai/gpt-oss-120b) | 120b open-weight language model from OpenAI | 170 |
+| [reve/create](https://replicate.com/reve/create) | Image generation model from Reve | 170 |
+| [openai/gpt-4o-transcribe](https://replicate.com/openai/gpt-4o-transcribe) | A speech-to-text model that uses GPT-4o to transcribe audio | 169 |
+| [cjwbw/sadtalker](https://replicate.com/cjwbw/sadtalker) | Stylized Audio-Driven Single Image Talking Face Animation | 168 |
+| [pixverse/pixverse-v5](https://replicate.com/pixverse/pixverse-v5) | Create 5s-8s videos with enhanced character movement, visual effects, and exclusive 1080p-8s support. Optimized for anime characters and complex actions | 167 |
+| [havocy28/ai-detector](https://replicate.com/havocy28/ai-detector) | Detect AI Generated Text with Fast-DetectGPT | 167 |
+| [deepseek-ai/deepseek-r1](https://replicate.com/deepseek-ai/deepseek-r1) | A reasoning model trained with reinforcement learning, on par with OpenAI o1 | 162 |
+| [bytedance/dreamactor-m2.0](https://replicate.com/bytedance/dreamactor-m2.0) | Animate any character, humans, cartoons, animals, even non-humans, from a single image + driving video | 162 |
+| [mirelo/video-to-sfx-v1.5](https://replicate.com/mirelo/video-to-sfx-v1.5) | Generate synced sounds for any video and return it with its new soundtrack - now enhanced in version 1.5 for improved sound synchronization and realism | 162 |
+| [meta/sam-2-video](https://replicate.com/meta/sam-2-video) | SAM 2: Segment Anything v2 (for videos) | 162 |
+| [cjwbw/videocrafter](https://replicate.com/cjwbw/videocrafter) | VideoCrafter2: Text-to-Video and Image-to-Video Generation and Editing | 160 |
+| [meta/llama-2-70b](https://replicate.com/meta/llama-2-70b) | Base version of Llama 2, a 70 billion parameter language model from Meta. | 160 |
+| [pikachupichu25/image-faceswap](https://replicate.com/pikachupichu25/image-faceswap) | null | 159 |
+| [xlabs-ai/flux-dev-controlnet](https://replicate.com/xlabs-ai/flux-dev-controlnet) | XLabs v3 canny, depth and soft edge controlnets for Flux.1 Dev | 156 |
+| [minimax/speech-2.6-hd](https://replicate.com/minimax/speech-2.6-hd) | MiniMax Speech 2.6 HD delivers studio-quality multilingual text-to-audio on Replicate with nuanced prosody, subtitle export, and premium voices | 155 |
+| [lucataco/video-merge](https://replicate.com/lucataco/video-merge) | Simple tool to merge together separate video snippets | 153 |
+| [wan-video/wan-2.7-videoedit](https://replicate.com/wan-video/wan-2.7-videoedit) | Edit videos with natural language instructions using Alibaba's Wan 2.7 VideoEdit model | 151 |
+| [pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) | The CLIP Interrogator is a prompt engineering tool that combines OpenAI's CLIP and Salesforce's BLIP to optimize text prompts to match a given image. Use the resulting prompts with text-to-image models like Stable Diffusion to create cool art! | 150 |
+| [flux-kontext-apps/multi-image-kontext-max](https://replicate.com/flux-kontext-apps/multi-image-kontext-max) | An experimental FLUX Kontext model that can combine two input images | 149 |
+| [zsxkib/tool-merge-images](https://replicate.com/zsxkib/tool-merge-images) | Merge multiple images into clean horizontal or vertical strips with precise alignment and sizing controls. | 146 |
+| [jagilley/controlnet-scribble](https://replicate.com/jagilley/controlnet-scribble) | Generate detailed images from scribbled drawings | 145 |
+| [flux-kontext-apps/change-haircut](https://replicate.com/flux-kontext-apps/change-haircut) | Quickly change someone's hair style and hair color, powered by FLUX.1 Kontext [pro] | 144 |
+| [openai/gpt-4o-mini-transcribe](https://replicate.com/openai/gpt-4o-mini-transcribe) | A speech-to-text model that uses GPT-4o mini to transcribe audio | 142 |
+| [google/lyria-2](https://replicate.com/google/lyria-2) | Lyria 2 is a music generation model that produces 48kHz stereo audio through text-based prompts | 140 |
+| [ideogram-ai/ideogram-character](https://replicate.com/ideogram-ai/ideogram-character) | Generate consistent characters from a single reference image. Outputs can be in many styles. You can also use inpainting to add your character to an existing image. | 140 |
+| [grey-hound432/fast-image-quality-compressor](https://replicate.com/grey-hound432/fast-image-quality-compressor) | A simple and efficient image compression model that reduces file size while maintaining image quality. Designed to boot quickly and deliver results in under a second. | 139 |
+| [wan-video/wan-2.6-i2v](https://replicate.com/wan-video/wan-2.6-i2v) | Alibaba Wan 2.6 image to video generation model | 139 |
+| [minimax/voice-cloning](https://replicate.com/minimax/voice-cloning) | Clone voices to use with Minimax's speech-02-hd and speech-02-turbo | 139 |
+| [black-forest-labs/flux-canny-pro](https://replicate.com/black-forest-labs/flux-canny-pro) | Professional edge-guided image generation. Control structure and composition using Canny edge detection | 139 |
+| [xai/grok-text-to-speech](https://replicate.com/xai/grok-text-to-speech) | Convert text to natural-sounding speech with xAI's Grok TTS. 5 voices, 20 languages, expressive speech tags, and high-fidelity MP3 / WAV / telephony audio output. | 136 |
+| [asiryan/realism-xl](https://replicate.com/asiryan/realism-xl) | Realism XL Model (Text2Img, Img2Img and Inpainting) | 136 |
+| [tencent/hunyuan-image-3](https://replicate.com/tencent/hunyuan-image-3) | A powerful native multimodal model for image generation (PrunaAI squeezed) | 133 |
+| [cjwbw/seamless_communication](https://replicate.com/cjwbw/seamless_communication) | SeamlessM4T—Massively Multilingual & Multimodal Machine Translation | 132 |
+| [sync/lipsync-2](https://replicate.com/sync/lipsync-2) | Generate realistic lipsyncs with Sync Labs' 2.0 model | 130 |
+| [pixverse/pixverse-v4.5](https://replicate.com/pixverse/pixverse-v4.5) | Quickly make 5s or 8s videos at 540p, 720p or 1080p. It has enhanced motion, prompt coherence and handles complex actions well. | 129 |
+| [wan-video/wan-2.5-i2v-fast](https://replicate.com/wan-video/wan-2.5-i2v-fast) | Wan 2.5 image-to-video, optimized for speed | 128 |
+| [fermatresearch/sdxl-controlnet-lora](https://replicate.com/fermatresearch/sdxl-controlnet-lora) | '''Last update: Now supports img2img.''' SDXL Canny controlnet with LoRA support. | 128 |
+| [anthropic/claude-3.5-haiku](https://replicate.com/anthropic/claude-3.5-haiku) | Anthropic's fastest, most cost-effective model, with a 200K token context window (claude-3-5-haiku-20241022) | 125 |
+| [qr2ai/qr_code_ai_art_generator](https://replicate.com/qr2ai/qr_code_ai_art_generator) | QR Code AI Art Generator | 125 |
+| [skullycute/prefectillustriousxlv60](https://replicate.com/skullycute/prefectillustriousxlv60) | Anime Illust model | 123 |
+| [fofr/controlnet-preprocessors](https://replicate.com/fofr/controlnet-preprocessors) | Canny, soft edge, depth, lineart, segmentation, pose, etc | 121 |
+| [nvidia/sana](https://replicate.com/nvidia/sana) | A fast image model with wide artistic range and resolutions up to 4096x4096 | 120 |
+| [lucataco/hermes-2-pro-llama-3-8b](https://replicate.com/lucataco/hermes-2-pro-llama-3-8b) | Hermes 2 Pro is an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced Function Calling and JSON Mode dataset developed in-house | 120 |
+| [flux-kontext-apps/face-to-many-kontext](https://replicate.com/flux-kontext-apps/face-to-many-kontext) | Become a character, in style | 119 |
+| [meta/llama-guard-3-8b](https://replicate.com/meta/llama-guard-3-8b) | A Llama-3.1-8B pretrained model, fine-tuned for content safety classification | 119 |
+| [lucataco/kontext-realearth](https://replicate.com/lucataco/kontext-realearth) | This Kontext LoRA turns basic satellite images into quality drone shots | 118 |
+| [aisha-ai-official/prefect-pony-xl-v5](https://replicate.com/aisha-ai-official/prefect-pony-xl-v5) | null | 118 |
+| [fermatresearch/bisenet-faces](https://replicate.com/fermatresearch/bisenet-faces) | A Cog implementation of BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [Face Parsing] (https://github.com/yakhyo/face-parsing). | 116 |
+| [openai/o4-mini](https://replicate.com/openai/o4-mini) | OpenAI's fast, lightweight reasoning model | 115 |
+| [bytedance/omni-human](https://replicate.com/bytedance/omni-human) | Turns your audio/video/images into professional-quality animated videos | 115 |
+| [grandlineai/instant-id-photorealistic](https://replicate.com/grandlineai/instant-id-photorealistic) | InstantID : Zero-shot Identity-Preserving Generation in Seconds. Using Juggernaut-XL v8 as the base model to encourage photorealism | 115 |
+| [pixverse/pixverse-v5.6](https://replicate.com/pixverse/pixverse-v5.6) | Latest video model from Pixverse with astonishing physics | 114 |
+| [lucataco/indextts-2](https://replicate.com/lucataco/indextts-2) | Emotionally Expressive and Duration-Controlled Text-to-Speech | 114 |
+| [zsxkib/jina-clip-v2](https://replicate.com/zsxkib/jina-clip-v2) | Jina-CLIP v2: 0.9B multimodal embedding model with 89-language multilingual support, 512x512 image resolution, and Matryoshka representations | 114 |
+| [replicate/fast-flux-trainer](https://replicate.com/replicate/fast-flux-trainer) | Train subjects or styles faster than ever | 111 |
+| [ibm-granite/granite-4.0-h-small](https://replicate.com/ibm-granite/granite-4.0-h-small) | Granite-4.0-H-Small is a 32B parameter long-context instruct model finetuned from Granite-4.0-H-Small-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. | 111 |
+| [stability-ai/stable-diffusion-3.5-medium](https://replicate.com/stability-ai/stable-diffusion-3.5-medium) | 2.5 billion parameter image model with improved MMDiT-X architecture | 111 |
+| [xlabs-ai/flux-dev-realism](https://replicate.com/xlabs-ai/flux-dev-realism) | FLUX.1-dev with XLabs-AI’s realism lora | 111 |
+| [zsxkib/qwen2-1.5b-instruct](https://replicate.com/zsxkib/qwen2-1.5b-instruct) | Qwen 2: A 1.5 billion parameter language model from Alibaba Cloud, fine tuned for chat completions | 110 |
+| [google/veo-3](https://replicate.com/google/veo-3) | Sound on: Google’s flagship Veo 3 text to video model, with audio | 109 |
+| [ardianfe/demucs-prod](https://replicate.com/ardianfe/demucs-prod) | sound separation with demucs | 107 |
+| [google-deepmind/shieldgemma-2-4b-it](https://replicate.com/google-deepmind/shieldgemma-2-4b-it) | ShieldGemma 2 is a model trained on Gemma 3's 4B IT checkpoint for image safety classification across key categories that takes in images and outputs safety labels per policy. | 105 |
+| [wavespeedai/wan-2.1-i2v-480p](https://replicate.com/wavespeedai/wan-2.1-i2v-480p) | Accelerated inference for Wan 2.1 14B image to video, a comprehensive and open suite of video foundation models that pushes the boundaries of video generation. | 104 |
+| [douwantech/musetalk](https://replicate.com/douwantech/musetalk) | Real-Time High Quality Lip Synchronization with Latent Space Inpainting | 103 |
+| [vufinder/depth-anything-v3-metric](https://replicate.com/vufinder/depth-anything-v3-metric) | Monocular metric depth estimation | 101 |
